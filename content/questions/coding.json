@@ -1,0 +1,340 @@
+[
+  {
+    "number": 1,
+    "question": "If TAP is coded SZO, how is FREEZE coded?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "EQDDYD"
+      },
+      {
+        "letter": "b",
+        "text": "ESDDYD"
+      },
+      {
+        "letter": "c",
+        "text": "EQDFYD"
+      },
+      {
+        "letter": "d",
+        "text": "GSFFAF"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Each letter −1.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 2,
+    "question": "If ROSE = 6821, CHAIR = 73456 and PREACH = 961473, then SEARCH = ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "246173"
+      },
+      {
+        "letter": "b",
+        "text": "214673"
+      },
+      {
+        "letter": "c",
+        "text": "214763"
+      },
+      {
+        "letter": "d",
+        "text": "216473"
+      }
+    ],
+    "answer": "b",
+    "explanation": "S2 E1 A4 R6 C7 H3.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 3,
+    "question": "If MONKEY is written XDJMNL, how is TIGER written?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "QDFHS"
+      },
+      {
+        "letter": "b",
+        "text": "SDFHS"
+      },
+      {
+        "letter": "c",
+        "text": "SHFDQ"
+      },
+      {
+        "letter": "d",
+        "text": "UJHFS"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Reverse the word (YEKNOM) and shift each letter −1 → XDJMNL. TIGER → REGIT → QDFHS.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 4,
+    "question": "If COMPUTER is RFUVQNPC, then MEDICINE is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "EOJDJEFM"
+      },
+      {
+        "letter": "b",
+        "text": "EOJDEJFM"
+      },
+      {
+        "letter": "c",
+        "text": "MFEJDJOE"
+      },
+      {
+        "letter": "d",
+        "text": "MFEDJJOE"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Reverse (RETUPMOC); keep first & last letters, +1 to the middle ones → RFUVQNPC. MEDICINE → ENICIDEM → E OJDJEF M.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 5,
+    "question": "If FRIEND is HUMJTK, then CANDLE is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "EDRIRL"
+      },
+      {
+        "letter": "b",
+        "text": "DCQHQK"
+      },
+      {
+        "letter": "c",
+        "text": "ESJFME"
+      },
+      {
+        "letter": "d",
+        "text": "FYOBOC"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Shifts +2, +3, +4, +5, +6, +7.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 6,
+    "question": "If DELHI = 73541 and CALCUTTA = 82589662, then CALICUT = ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "5279431"
+      },
+      {
+        "letter": "b",
+        "text": "5978213"
+      },
+      {
+        "letter": "c",
+        "text": "8251896"
+      },
+      {
+        "letter": "d",
+        "text": "8543691"
+      }
+    ],
+    "answer": "c",
+    "explanation": "C8 A2 L5 I1 C8 U9 T6.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 7,
+    "question": "If GO = 32 and SHE = 49, then SOME = ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "56"
+      },
+      {
+        "letter": "b",
+        "text": "58"
+      },
+      {
+        "letter": "c",
+        "text": "62"
+      },
+      {
+        "letter": "d",
+        "text": "64"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Reverse alphabet positions (A = 26 … Z = 1): G20 + O12 = 32; S8 + H19 + E22 = 49; S8 + O12 + M14 + E22 = 56.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 8,
+    "question": "If CAT = 24, then DOG = ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "24"
+      },
+      {
+        "letter": "b",
+        "text": "26"
+      },
+      {
+        "letter": "c",
+        "text": "28"
+      },
+      {
+        "letter": "d",
+        "text": "30"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Sum of positions: C3 + A1 + T20 = 24; D4 + O15 + G7 = 26.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 9,
+    "question": "If A = 1, B = 2, …, then BIDDIC is coded",
+    "options": [
+      {
+        "letter": "a",
+        "text": "294493"
+      },
+      {
+        "letter": "b",
+        "text": "284563"
+      },
+      {
+        "letter": "c",
+        "text": "293443"
+      },
+      {
+        "letter": "d",
+        "text": "299443"
+      }
+    ],
+    "answer": "a",
+    "explanation": "",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 10,
+    "question": "'pit na sa' = 'you are good', 'na ja tod' = 'they are bad', 'ja sa ra' = 'good and bad'. Which word means 'they'?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "na"
+      },
+      {
+        "letter": "b",
+        "text": "ja"
+      },
+      {
+        "letter": "c",
+        "text": "tod"
+      },
+      {
+        "letter": "d",
+        "text": "sa"
+      }
+    ],
+    "answer": "c",
+    "explanation": "'na' = are, 'sa' = good, 'ja' = bad → 'tod' = they.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 11,
+    "question": "If water is called food, food is called tree, tree is called sky, and sky is called wall, on which do fruits grow?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Water"
+      },
+      {
+        "letter": "b",
+        "text": "Food"
+      },
+      {
+        "letter": "c",
+        "text": "Sky"
+      },
+      {
+        "letter": "d",
+        "text": "Tree"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Fruits grow on a tree, and tree is called \"sky\".",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 12,
+    "question": "In a code, GOLD = TLOW. Then SILVER = ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "HROEVI"
+      },
+      {
+        "letter": "b",
+        "text": "HRPEVI"
+      },
+      {
+        "letter": "c",
+        "text": "HSOEVI"
+      },
+      {
+        "letter": "d",
+        "text": "HROFVI"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Opposite-letter pairs (position sum = 27): S↔H, I↔R, L↔O, V↔E, E↔V, R↔I.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 13,
+    "question": "If PAINT is coded 74128 and EXCEL is 93596, how is ACCEPT coded?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "455978"
+      },
+      {
+        "letter": "b",
+        "text": "547978"
+      },
+      {
+        "letter": "c",
+        "text": "554978"
+      },
+      {
+        "letter": "d",
+        "text": "735961"
+      }
+    ],
+    "answer": "a",
+    "explanation": "From PAINT: P7 A4 I1 N2 T8; from EXCEL: E9 X3 C5 L6. ACCEPT → 4 5 5 9 7 8.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  }
+]

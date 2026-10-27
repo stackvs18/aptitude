@@ -1,0 +1,366 @@
+[
+  {
+    "number": 1,
+    "question": "30.6 km/h = ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "5.1 m/s"
+      },
+      {
+        "letter": "b",
+        "text": "8.5 m/s"
+      },
+      {
+        "letter": "c",
+        "text": "110.16 m/s"
+      },
+      {
+        "letter": "d",
+        "text": "None"
+      }
+    ],
+    "answer": "b",
+    "explanation": "× 5/18.",
+    "source": "Book Q1",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 2,
+    "question": "A cyclist covers 150 m in 25 s. Speed in km/h?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "20"
+      },
+      {
+        "letter": "b",
+        "text": "21.6"
+      },
+      {
+        "letter": "c",
+        "text": "23"
+      },
+      {
+        "letter": "d",
+        "text": "25"
+      }
+    ],
+    "answer": "b",
+    "explanation": "6 m/s × 18/5.",
+    "source": "Book Q2",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 3,
+    "question": "A is at 72 km/h, B at 25 m/s. Difference in m/s?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "1.5"
+      },
+      {
+        "letter": "b",
+        "text": "2"
+      },
+      {
+        "letter": "c",
+        "text": "3"
+      },
+      {
+        "letter": "d",
+        "text": "5"
+      }
+    ],
+    "answer": "d",
+    "explanation": "72 km/h = 20 m/s.",
+    "source": "Book Q4",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 4,
+    "question": "65 km in 2 h 10 min. Speed in metres per minute?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "200"
+      },
+      {
+        "letter": "b",
+        "text": "500"
+      },
+      {
+        "letter": "c",
+        "text": "600"
+      },
+      {
+        "letter": "d",
+        "text": "700"
+      }
+    ],
+    "answer": "b",
+    "explanation": "65000/130.",
+    "source": "Book Q5",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 5,
+    "question": "A person crosses a 600 m street in 5 min. Speed in km/h?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "3.6"
+      },
+      {
+        "letter": "b",
+        "text": "7.2"
+      },
+      {
+        "letter": "c",
+        "text": "8.4"
+      },
+      {
+        "letter": "d",
+        "text": "10"
+      }
+    ],
+    "answer": "b",
+    "explanation": "2 m/s × 3.6.",
+    "source": "Book Q8",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 6,
+    "question": "Train leaves at 4:10 PM, arrives 7:25 PM at 40 km/h. Distance?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "120"
+      },
+      {
+        "letter": "b",
+        "text": "130"
+      },
+      {
+        "letter": "c",
+        "text": "135"
+      },
+      {
+        "letter": "d",
+        "text": "140 km"
+      }
+    ],
+    "answer": "b",
+    "explanation": "3¼ h × 40.",
+    "source": "Book Q15",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 7,
+    "question": "A train at 65 km/h covers 1300 km in 24 h with equal halts at 8 junctions. Each halt?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "20 min"
+      },
+      {
+        "letter": "b",
+        "text": "30 min"
+      },
+      {
+        "letter": "c",
+        "text": "40 min"
+      },
+      {
+        "letter": "d",
+        "text": "60 min"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Running time 20 h → 4 h halts / 8.",
+    "source": "Book Q18",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 8,
+    "question": "A man goes at 60 km/h and returns at 40 km/h. Average speed?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "48"
+      },
+      {
+        "letter": "b",
+        "text": "50"
+      },
+      {
+        "letter": "c",
+        "text": "52"
+      },
+      {
+        "letter": "d",
+        "text": "45"
+      }
+    ],
+    "answer": "a",
+    "explanation": "2 × 60 × 40/100.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 9,
+    "question": "Walking at ¾ of his usual speed, a man is 20 min late. His usual time?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "40 min"
+      },
+      {
+        "letter": "b",
+        "text": "60 min"
+      },
+      {
+        "letter": "c",
+        "text": "75 min"
+      },
+      {
+        "letter": "d",
+        "text": "80 min"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Time becomes 4/3 → extra ⅓T = 20.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 10,
+    "question": "Walking at 5 km/h a student is 7 min late; at 6 km/h he is 5 min early. Distance?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "5 km"
+      },
+      {
+        "letter": "b",
+        "text": "6 km"
+      },
+      {
+        "letter": "c",
+        "text": "7 km"
+      },
+      {
+        "letter": "d",
+        "text": "8 km"
+      }
+    ],
+    "answer": "b",
+    "explanation": "d/5 − d/6 = 12/60 → d = 6.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 11,
+    "question": "Two cars start towards each other from 300 km apart at 40 and 60 km/h. They meet after",
+    "options": [
+      {
+        "letter": "a",
+        "text": "2 h"
+      },
+      {
+        "letter": "b",
+        "text": "3 h"
+      },
+      {
+        "letter": "c",
+        "text": "4 h"
+      },
+      {
+        "letter": "d",
+        "text": "5 h"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Relative speed 100.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 12,
+    "question": "If a man walks at 14 km/h instead of 10 km/h, he covers 20 km more in the same time. Actual distance?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "50"
+      },
+      {
+        "letter": "b",
+        "text": "56"
+      },
+      {
+        "letter": "c",
+        "text": "70"
+      },
+      {
+        "letter": "d",
+        "text": "80 km"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Extra 4 km/h × t = 20 → t = 5 h → 50 km.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 13,
+    "question": "A car covers a distance in 5 h at 60 km/h. Speed needed to cover it in 3 h?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "80"
+      },
+      {
+        "letter": "b",
+        "text": "90"
+      },
+      {
+        "letter": "c",
+        "text": "100"
+      },
+      {
+        "letter": "d",
+        "text": "120"
+      }
+    ],
+    "answer": "c",
+    "explanation": "300/3.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 14,
+    "question": "Speeds of A and B are in ratio 3 : 4. A takes 30 min more than B for a distance. A's time?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "1 h"
+      },
+      {
+        "letter": "b",
+        "text": "1.5 h"
+      },
+      {
+        "letter": "c",
+        "text": "2 h"
+      },
+      {
+        "letter": "d",
+        "text": "2.5 h"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Time ratio 4 : 3; 1 part = 30 min → A = 4 × 30 = 120 min.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  }
+]

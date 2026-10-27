@@ -1,0 +1,396 @@
+[
+  {
+    "number": 1,
+    "question": "Ayesha finishes a job in 16 days, Amita in 8 days. Together?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "4⅖"
+      },
+      {
+        "letter": "b",
+        "text": "5⅓"
+      },
+      {
+        "letter": "c",
+        "text": "6"
+      },
+      {
+        "letter": "d",
+        "text": "12"
+      }
+    ],
+    "answer": "b",
+    "explanation": "1/16 + 1/8 = 3/16 → 16/3 days.",
+    "source": "Book Q1",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 2,
+    "question": "A takes 18 days; B takes half that time. Part done together in a day?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "1/6"
+      },
+      {
+        "letter": "b",
+        "text": "1/9"
+      },
+      {
+        "letter": "c",
+        "text": "2/5"
+      },
+      {
+        "letter": "d",
+        "text": "2/7"
+      }
+    ],
+    "answer": "a",
+    "explanation": "1/18 + 1/9 = 3/18.",
+    "source": "Book Q3",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 3,
+    "question": "A completes a work in 6 days, B in 12. Working together, the portion done by A is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "1/3"
+      },
+      {
+        "letter": "b",
+        "text": "1/4"
+      },
+      {
+        "letter": "c",
+        "text": "1/2"
+      },
+      {
+        "letter": "d",
+        "text": "2/3"
+      }
+    ],
+    "answer": "d",
+    "explanation": "Efficiency ratio 2 : 1.",
+    "source": "Book Q6",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 4,
+    "question": "A takes 8 days, B 12 days. Joint wages ₹200. B's share?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "₹75"
+      },
+      {
+        "letter": "b",
+        "text": "₹80"
+      },
+      {
+        "letter": "c",
+        "text": "₹85"
+      },
+      {
+        "letter": "d",
+        "text": "₹90"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Wages ∝ work done = 1/8 : 1/12 = 3 : 2 → B = 80.",
+    "source": "Book Q7",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 5,
+    "question": "Three people can finish a job in 6, 4 and 12 hours. Together?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "2 h"
+      },
+      {
+        "letter": "b",
+        "text": "5 h"
+      },
+      {
+        "letter": "c",
+        "text": "6 h"
+      },
+      {
+        "letter": "d",
+        "text": "8 h"
+      }
+    ],
+    "answer": "a",
+    "explanation": "2/12 + 3/12 + 1/12 = 1/2.",
+    "source": "Book Q10",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 6,
+    "question": "Amit and Sumit plough a field in 4 days; Sumit alone in 6. Amit alone?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "10"
+      },
+      {
+        "letter": "b",
+        "text": "12"
+      },
+      {
+        "letter": "c",
+        "text": "14"
+      },
+      {
+        "letter": "d",
+        "text": "15"
+      }
+    ],
+    "answer": "b",
+    "explanation": "1/4 − 1/6 = 1/12.",
+    "source": "Book Q12",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 7,
+    "question": "X, Y, Z together take 6 days; X or Y alone takes 16 days. Z alone?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "12"
+      },
+      {
+        "letter": "b",
+        "text": "16"
+      },
+      {
+        "letter": "c",
+        "text": "24"
+      },
+      {
+        "letter": "d",
+        "text": "36"
+      }
+    ],
+    "answer": "c",
+    "explanation": "1/6 − 2/16 = 1/24.",
+    "source": "Book Q14",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 8,
+    "question": "A takes 16 days, B 12 days; with C they finish in 4 days. C alone?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "9⅕"
+      },
+      {
+        "letter": "b",
+        "text": "9⅖"
+      },
+      {
+        "letter": "c",
+        "text": "9⅗"
+      },
+      {
+        "letter": "d",
+        "text": "10"
+      }
+    ],
+    "answer": "c",
+    "explanation": "1/4 − 1/16 − 1/12 = 5/48 → 48/5.",
+    "source": "Book Q15",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 9,
+    "question": "A takes twice as long as B, or thrice as long as C. Together they take 2 days. B alone?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "4"
+      },
+      {
+        "letter": "b",
+        "text": "6"
+      },
+      {
+        "letter": "c",
+        "text": "8"
+      },
+      {
+        "letter": "d",
+        "text": "12"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Let A = 6t, B = 3t, C = 2t → 1/6t + 1/3t + 1/2t = 1/t = ½ → t = 2 → B = 6.",
+    "source": "Book Q19",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 10,
+    "question": "A does half of what B does in a day; B does half of what C does. C alone takes 7 days. All three together?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "4"
+      },
+      {
+        "letter": "b",
+        "text": "14"
+      },
+      {
+        "letter": "c",
+        "text": "21"
+      },
+      {
+        "letter": "d",
+        "text": "28"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Rates 1/28, 1/14, 1/7 → sum 7/28 = 1/4.",
+    "source": "Book Q20",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 11,
+    "question": "A and B together take T days; A alone T + 3 days; B alone T + 12 days. T = ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "3"
+      },
+      {
+        "letter": "b",
+        "text": "9"
+      },
+      {
+        "letter": "c",
+        "text": "12"
+      },
+      {
+        "letter": "d",
+        "text": "Can't say"
+      },
+      {
+        "letter": "e",
+        "text": "None"
+      }
+    ],
+    "answer": "e",
+    "explanation": "Shortcut T = √(3 × 12) = **6**.",
+    "source": "Book Q9",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 12,
+    "question": "A and B can do a job in 12 days, B and C in 15 days, C and A in 20 days. A, B, C together?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "8"
+      },
+      {
+        "letter": "b",
+        "text": "10"
+      },
+      {
+        "letter": "c",
+        "text": "12"
+      },
+      {
+        "letter": "d",
+        "text": "15"
+      }
+    ],
+    "answer": "b",
+    "explanation": "2(A+B+C) = 1/12 + 1/15 + 1/20 = 1/5 → A+B+C = 1/10.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 13,
+    "question": "A is twice as efficient as B; together they finish in 14 days. A alone?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "18"
+      },
+      {
+        "letter": "b",
+        "text": "21"
+      },
+      {
+        "letter": "c",
+        "text": "24"
+      },
+      {
+        "letter": "d",
+        "text": "42"
+      }
+    ],
+    "answer": "b",
+    "explanation": "A = 2 units, B = 1 → work = 3 × 14 = 42 → A: 42/2 = 21.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 14,
+    "question": "A can do a work in 10 days, B in 15 days. They work together for 3 days, then A leaves. B finishes the rest in?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "5"
+      },
+      {
+        "letter": "b",
+        "text": "6"
+      },
+      {
+        "letter": "c",
+        "text": "7.5"
+      },
+      {
+        "letter": "d",
+        "text": "8"
+      }
+    ],
+    "answer": "c",
+    "explanation": "LCM 30: A = 3/day, B = 2/day. 3 days → 15 units; remaining 15 ÷ 2 = 7.5.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 15,
+    "question": "A tyre has two punctures: one alone would deflate it in 9 min, the other in 6 min. Together?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "1½"
+      },
+      {
+        "letter": "b",
+        "text": "3½"
+      },
+      {
+        "letter": "c",
+        "text": "3⅗"
+      },
+      {
+        "letter": "d",
+        "text": "4¼"
+      }
+    ],
+    "answer": "c",
+    "explanation": "1/9 + 1/6 = 5/18 → 18/5 min.",
+    "source": "Book Q4",
+    "bookKeyCorrected": false
+  }
+]

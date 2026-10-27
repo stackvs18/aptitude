@@ -1,0 +1,318 @@
+[
+  {
+    "number": 1,
+    "question": "P and Q invest ₹85000 and ₹15000. Profit ratio after 2 years?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "3:4"
+      },
+      {
+        "letter": "b",
+        "text": "3:5"
+      },
+      {
+        "letter": "c",
+        "text": "15:23"
+      },
+      {
+        "letter": "d",
+        "text": "17:23"
+      },
+      {
+        "letter": "e",
+        "text": "None"
+      }
+    ],
+    "answer": "e",
+    "explanation": "Same time → 85 : 15 = **17 : 3**.",
+    "source": "Book Q2",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 2,
+    "question": "Anand and Deepak invest ₹22500 and ₹35000. Deepak's share of ₹13800 profit?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "₹5400"
+      },
+      {
+        "letter": "b",
+        "text": "₹7200"
+      },
+      {
+        "letter": "c",
+        "text": "₹8400"
+      },
+      {
+        "letter": "d",
+        "text": "₹9600"
+      }
+    ],
+    "answer": "c",
+    "explanation": "9 : 14 → 13800 × 14/23.",
+    "source": "Book Q3",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 3,
+    "question": "Rent ₹578 for DVDs used 8, 12 and 14 hours. Third person's share?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "₹192"
+      },
+      {
+        "letter": "b",
+        "text": "₹204"
+      },
+      {
+        "letter": "c",
+        "text": "₹215"
+      },
+      {
+        "letter": "d",
+        "text": "₹238"
+      }
+    ],
+    "answer": "d",
+    "explanation": "4 : 6 : 7 → 578 × 7/17.",
+    "source": "Book Q4",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 4,
+    "question": "P, Q, R invest ₹45000, ₹70000, ₹90000; profit ₹164000. Q's share?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "₹36000"
+      },
+      {
+        "letter": "b",
+        "text": "₹56000"
+      },
+      {
+        "letter": "c",
+        "text": "₹64000"
+      },
+      {
+        "letter": "d",
+        "text": "₹72000"
+      }
+    ],
+    "answer": "b",
+    "explanation": "9 : 14 : 18 → 164000 × 14/41.",
+    "source": "Book Q5",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 5,
+    "question": "Reena invests ₹35000 for 8 months, Shaloo ₹42000 for 10 months. Reena's share of ₹31570?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "₹9471"
+      },
+      {
+        "letter": "b",
+        "text": "₹12628"
+      },
+      {
+        "letter": "c",
+        "text": "₹18040"
+      },
+      {
+        "letter": "d",
+        "text": "₹18942"
+      }
+    ],
+    "answer": "b",
+    "explanation": "280 : 420 = 2 : 3 → 31570 × 2/5.",
+    "source": "Book Q9",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 6,
+    "question": "Shankar invests ₹1,20,000; Aniket joins after 3 months with ₹1,90,000. Aniket's share of ₹17,50,000 after a year?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "₹8,00,000"
+      },
+      {
+        "letter": "b",
+        "text": "₹8,50,000"
+      },
+      {
+        "letter": "c",
+        "text": "₹9,00,000"
+      },
+      {
+        "letter": "d",
+        "text": "₹9,50,000"
+      }
+    ],
+    "answer": "d",
+    "explanation": "120 × 12 : 190 × 9 = 1440 : 1710 = 16 : 19 → 1750000 × 19/35.",
+    "source": "Book Q10",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 7,
+    "question": "Gautam invests ₹60000; Jatin joins 8 months later with ₹35000. Profit ratio after 2 years?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "2:1"
+      },
+      {
+        "letter": "b",
+        "text": "3:1"
+      },
+      {
+        "letter": "c",
+        "text": "18:7"
+      },
+      {
+        "letter": "d",
+        "text": "37:14"
+      }
+    ],
+    "answer": "c",
+    "explanation": "60 × 24 : 35 × 16 = 1440 : 560.",
+    "source": "Book Q12",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 8,
+    "question": "Dilip, Ram, Avtar invest ₹2700, ₹8100, ₹7200. Ram's share is ₹3600. Total profit?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "₹8000"
+      },
+      {
+        "letter": "b",
+        "text": "₹10800"
+      },
+      {
+        "letter": "c",
+        "text": "₹11600"
+      },
+      {
+        "letter": "d",
+        "text": "Data inadequate"
+      }
+    ],
+    "answer": "a",
+    "explanation": "3 : 9 : 8; 9 parts = 3600 → 20 parts = 8000.",
+    "source": "Book Q14",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 9,
+    "question": "A and B invest ₹20000 and ₹15000; after 6 months C joins with ₹20000. B's share of ₹25000 after 2 years?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "₹7500"
+      },
+      {
+        "letter": "b",
+        "text": "₹9000"
+      },
+      {
+        "letter": "c",
+        "text": "₹9500"
+      },
+      {
+        "letter": "d",
+        "text": "₹10000"
+      }
+    ],
+    "answer": "a",
+    "explanation": "20×24 : 15×24 : 20×18 = 480 : 360 : 360 = 4 : 3 : 3.",
+    "source": "Book Q15",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 10,
+    "question": "Aman invests ₹70000; Rakhi joins after 6 months with ₹105000; Sagar joins 6 months after that with ₹1.4 lakh. Ratio after 3 years?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "7:6:10"
+      },
+      {
+        "letter": "b",
+        "text": "12:15:16"
+      },
+      {
+        "letter": "c",
+        "text": "42:45:56"
+      },
+      {
+        "letter": "d",
+        "text": "Can't say"
+      }
+    ],
+    "answer": "b",
+    "explanation": "70×36 : 105×30 : 140×24 = 2520 : 3150 : 3360 = 12 : 15 : 16.",
+    "source": "Book Q16",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 11,
+    "question": "Arun, Kamal, Vinay invest ₹8000, ₹4000, ₹8000. Arun leaves after 6 months. Gain after 8 months ₹4005. Kamal's share?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "₹890"
+      },
+      {
+        "letter": "b",
+        "text": "₹1335"
+      },
+      {
+        "letter": "c",
+        "text": "₹1602"
+      },
+      {
+        "letter": "d",
+        "text": "₹1780"
+      }
+    ],
+    "answer": "a",
+    "explanation": "8×6 : 4×8 : 8×8 = 48 : 32 : 64 = 3 : 2 : 4 → 4005 × 2/9.",
+    "source": "Book Q18",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 12,
+    "question": "A is a working partner and B a sleeping partner. A puts ₹5000, B ₹6000. A gets 12.5% of profit for managing, rest shared in capital ratio. A's total share of ₹880 profit?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "₹400"
+      },
+      {
+        "letter": "b",
+        "text": "₹460"
+      },
+      {
+        "letter": "c",
+        "text": "₹480"
+      },
+      {
+        "letter": "d",
+        "text": "₹500"
+      }
+    ],
+    "answer": "b",
+    "explanation": "A's management = 110; rest 770 in 5 : 6 → A gets 350 → total 460.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "number": 1,
+    "question": "Ram walks 10 m North, turns right and walks 5 m, turns right again and walks 10 m. Where is he from the start?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "5 m West"
+      },
+      {
+        "letter": "b",
+        "text": "5 m East"
+      },
+      {
+        "letter": "c",
+        "text": "10 m North"
+      },
+      {
+        "letter": "d",
+        "text": "15 m East"
+      }
+    ],
+    "answer": "b",
+    "explanation": "N 10 → E 5 → S 10 → ends at (5, 0).",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 2,
+    "question": "Kunal walks 10 km North, then 6 km South, then 3 km East. How far is he from the start?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "5 km"
+      },
+      {
+        "letter": "b",
+        "text": "7 km"
+      },
+      {
+        "letter": "c",
+        "text": "9 km"
+      },
+      {
+        "letter": "d",
+        "text": "19 km"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Net 4 km N, 3 km E → √(16 + 9) = 5.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 3,
+    "question": "A man goes 12 km South and then 5 km East. His distance from the start is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "7 km"
+      },
+      {
+        "letter": "b",
+        "text": "13 km"
+      },
+      {
+        "letter": "c",
+        "text": "17 km"
+      },
+      {
+        "letter": "d",
+        "text": "15 km"
+      }
+    ],
+    "answer": "b",
+    "explanation": "5-12-13 triangle.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 4,
+    "question": "Lokesh goes 15 km North, turns West and goes 10 km, turns South and goes 5 km, turns East and goes 10 km. Where is he from home?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "10 km North"
+      },
+      {
+        "letter": "b",
+        "text": "5 km North"
+      },
+      {
+        "letter": "c",
+        "text": "10 km South"
+      },
+      {
+        "letter": "d",
+        "text": "15 km West"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Ends at (0, 10).",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 5,
+    "question": "Rasik walks 20 m North, turns right walks 30 m, turns right walks 35 m, turns left walks 15 m, turns left walks 15 m. Position from start?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "15 m West"
+      },
+      {
+        "letter": "b",
+        "text": "30 m East"
+      },
+      {
+        "letter": "c",
+        "text": "45 m East"
+      },
+      {
+        "letter": "d",
+        "text": "30 m West"
+      }
+    ],
+    "answer": "c",
+    "explanation": "(0,20) → (30,20) → (30,−15) → (45,−15) → (45, 0).",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 6,
+    "question": "One morning after sunrise, Suresh stood facing a pole. The pole's shadow fell exactly to his right. Which direction was he facing?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "East"
+      },
+      {
+        "letter": "b",
+        "text": "West"
+      },
+      {
+        "letter": "c",
+        "text": "North"
+      },
+      {
+        "letter": "d",
+        "text": "South"
+      }
+    ],
+    "answer": "d",
+    "explanation": "Morning sun in East → shadow points West. West is on his right → he faces South.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 7,
+    "question": "In the evening, A's shadow falls exactly to his left. Which direction is A facing?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "North"
+      },
+      {
+        "letter": "b",
+        "text": "South"
+      },
+      {
+        "letter": "c",
+        "text": "East"
+      },
+      {
+        "letter": "d",
+        "text": "West"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Evening sun in West → shadow points East. East on left → facing South.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 8,
+    "question": "A man facing North turns 90° clockwise, then 180° anticlockwise, then 270° clockwise. Which direction does he face now?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "North"
+      },
+      {
+        "letter": "b",
+        "text": "South"
+      },
+      {
+        "letter": "c",
+        "text": "East"
+      },
+      {
+        "letter": "d",
+        "text": "West"
+      }
+    ],
+    "answer": "b",
+    "explanation": "N → E → W → (W + 270° clockwise) = S.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 9,
+    "question": "Rahul faces West, turns 45° clockwise, then 180° clockwise, then 270° anticlockwise. He now faces",
+    "options": [
+      {
+        "letter": "a",
+        "text": "South-West"
+      },
+      {
+        "letter": "b",
+        "text": "South"
+      },
+      {
+        "letter": "c",
+        "text": "North-West"
+      },
+      {
+        "letter": "d",
+        "text": "West"
+      }
+    ],
+    "answer": "a",
+    "explanation": "W → NW → SE → SE − 270° = SW.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 10,
+    "question": "If South-East becomes North and North-East becomes West, what does West become?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "North-East"
+      },
+      {
+        "letter": "b",
+        "text": "North-West"
+      },
+      {
+        "letter": "c",
+        "text": "South-East"
+      },
+      {
+        "letter": "d",
+        "text": "South"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Every direction rotates 135° anticlockwise: West (270°) → 135° = South-East.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 11,
+    "question": "A clock shows 4:30. If the minute hand points East, the hour hand points",
+    "options": [
+      {
+        "letter": "a",
+        "text": "North"
+      },
+      {
+        "letter": "b",
+        "text": "North-East"
+      },
+      {
+        "letter": "c",
+        "text": "South-East"
+      },
+      {
+        "letter": "d",
+        "text": "North-West"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Normally minute hand (6) = South; it's rotated to East (90° anticlockwise). Hour hand at ~4.5 (135°, SE) → rotated 90° anticlockwise → NE.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 12,
+    "question": "P is 10 m West of Q. R is 30 m North of Q. S is 20 m East of R. Distance PS?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "30 m"
+      },
+      {
+        "letter": "b",
+        "text": "30√2 m"
+      },
+      {
+        "letter": "c",
+        "text": "10√13 m"
+      },
+      {
+        "letter": "d",
+        "text": "50 m"
+      }
+    ],
+    "answer": "b",
+    "explanation": "P(−10, 0), S(20, 30) → √(30² + 30²). *(Similar to RSA Ch 18 Q16.)*",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 13,
+    "question": "Two friends start from the same point; A goes 8 km East, B goes 6 km North. Distance between them?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "2 km"
+      },
+      {
+        "letter": "b",
+        "text": "10 km"
+      },
+      {
+        "letter": "c",
+        "text": "14 km"
+      },
+      {
+        "letter": "d",
+        "text": "12 km"
+      }
+    ],
+    "answer": "b",
+    "explanation": "",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 14,
+    "question": "Facing North, I turn left, walk, turn left again, walk, then turn right. Which direction am I facing?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "North"
+      },
+      {
+        "letter": "b",
+        "text": "South"
+      },
+      {
+        "letter": "c",
+        "text": "East"
+      },
+      {
+        "letter": "d",
+        "text": "West"
+      }
+    ],
+    "answer": "d",
+    "explanation": "N → W → S → (right of S) = W.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  }
+]

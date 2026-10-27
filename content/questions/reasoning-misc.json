@@ -1,0 +1,470 @@
+[
+  {
+    "number": 1,
+    "question": "2, 6, 12, 20, 30, ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "40"
+      },
+      {
+        "letter": "b",
+        "text": "42"
+      },
+      {
+        "letter": "c",
+        "text": "44"
+      },
+      {
+        "letter": "d",
+        "text": "46"
+      }
+    ],
+    "answer": "b",
+    "explanation": "n(n + 1): 6 × 7.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 2,
+    "question": "3, 5, 9, 17, 33, ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "49"
+      },
+      {
+        "letter": "b",
+        "text": "57"
+      },
+      {
+        "letter": "c",
+        "text": "65"
+      },
+      {
+        "letter": "d",
+        "text": "66"
+      }
+    ],
+    "answer": "c",
+    "explanation": "×2 − 1.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 3,
+    "question": "4, 6, 12, 14, 28, 30, ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "32"
+      },
+      {
+        "letter": "b",
+        "text": "60"
+      },
+      {
+        "letter": "c",
+        "text": "62"
+      },
+      {
+        "letter": "d",
+        "text": "64"
+      }
+    ],
+    "answer": "b",
+    "explanation": "+2, ×2 alternately.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 4,
+    "question": "7, 10, 8, 11, 9, 12, ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "7"
+      },
+      {
+        "letter": "b",
+        "text": "10"
+      },
+      {
+        "letter": "c",
+        "text": "12"
+      },
+      {
+        "letter": "d",
+        "text": "13"
+      }
+    ],
+    "answer": "b",
+    "explanation": "+3, −2 alternately.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 5,
+    "question": "A, C, F, J, O, ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "T"
+      },
+      {
+        "letter": "b",
+        "text": "U"
+      },
+      {
+        "letter": "c",
+        "text": "V"
+      },
+      {
+        "letter": "d",
+        "text": "S"
+      }
+    ],
+    "answer": "b",
+    "explanation": "+2, +3, +4, +5, +6.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 6,
+    "question": "Find the odd man out: 41, 43, 47, 53, 61, 71, 73, 81",
+    "options": [
+      {
+        "letter": "a",
+        "text": "61"
+      },
+      {
+        "letter": "b",
+        "text": "71"
+      },
+      {
+        "letter": "c",
+        "text": "73"
+      },
+      {
+        "letter": "d",
+        "text": "81"
+      }
+    ],
+    "answer": "d",
+    "explanation": "All others are prime (81 = 9²).",
+    "source": "Book ch. 35",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 7,
+    "question": "Odd man out: 3, 5, 7, 12, 17, 19",
+    "options": [
+      {
+        "letter": "a",
+        "text": "19"
+      },
+      {
+        "letter": "b",
+        "text": "17"
+      },
+      {
+        "letter": "c",
+        "text": "12"
+      },
+      {
+        "letter": "d",
+        "text": "7"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Only non-prime.",
+    "source": "Book ch. 35",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 8,
+    "question": "Odd one out: Mercury, Venus, Moon, Mars",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Mercury"
+      },
+      {
+        "letter": "b",
+        "text": "Venus"
+      },
+      {
+        "letter": "c",
+        "text": "Moon"
+      },
+      {
+        "letter": "d",
+        "text": "Mars"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Moon is a satellite, not a planet.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 9,
+    "question": "Doctor : Hospital :: Teacher : ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Student"
+      },
+      {
+        "letter": "b",
+        "text": "School"
+      },
+      {
+        "letter": "c",
+        "text": "Book"
+      },
+      {
+        "letter": "d",
+        "text": "Class"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Workplace.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 10,
+    "question": "3 : 27 :: 4 : ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "16"
+      },
+      {
+        "letter": "b",
+        "text": "32"
+      },
+      {
+        "letter": "c",
+        "text": "48"
+      },
+      {
+        "letter": "d",
+        "text": "64"
+      }
+    ],
+    "answer": "d",
+    "explanation": "Cube.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 11,
+    "question": "Angle between the hands of a clock at 3:40?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "120°"
+      },
+      {
+        "letter": "b",
+        "text": "125°"
+      },
+      {
+        "letter": "c",
+        "text": "130°"
+      },
+      {
+        "letter": "d",
+        "text": "140°"
+      }
+    ],
+    "answer": "c",
+    "explanation": "|30H − 5.5M| = |90 − 220| = 130°.",
+    "source": "Book ch. 28",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 12,
+    "question": "At what time between 4 and 5 are the hands of a clock together?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "20 min past 4"
+      },
+      {
+        "letter": "b",
+        "text": "21 9/11 min past 4"
+      },
+      {
+        "letter": "c",
+        "text": "22 min past 4"
+      },
+      {
+        "letter": "d",
+        "text": "21 5/11 min past 4"
+      }
+    ],
+    "answer": "b",
+    "explanation": "30H/5.5 = 120/5.5 = 21 9/11.",
+    "source": "Book ch. 28",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 13,
+    "question": "A clock shows 4:20. What does its mirror image show?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "7:40"
+      },
+      {
+        "letter": "b",
+        "text": "8:40"
+      },
+      {
+        "letter": "c",
+        "text": "7:20"
+      },
+      {
+        "letter": "d",
+        "text": "8:20"
+      }
+    ],
+    "answer": "a",
+    "explanation": "11:60 − 4:20 = 7:40.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 14,
+    "question": "Rohan is 7th from the left and 12th from the right in a row. How many students are in the row?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "17"
+      },
+      {
+        "letter": "b",
+        "text": "18"
+      },
+      {
+        "letter": "c",
+        "text": "19"
+      },
+      {
+        "letter": "d",
+        "text": "20"
+      }
+    ],
+    "answer": "b",
+    "explanation": "7 + 12 − 1.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 15,
+    "question": "In a class of 40, Ravi ranks 11th from the top. His rank from the bottom?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "29"
+      },
+      {
+        "letter": "b",
+        "text": "30"
+      },
+      {
+        "letter": "c",
+        "text": "31"
+      },
+      {
+        "letter": "d",
+        "text": "28"
+      }
+    ],
+    "answer": "b",
+    "explanation": "40 − 11 + 1.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 16,
+    "question": "If '+' means '×', '−' means '+', '×' means '÷' and '÷' means '−', then 6 − 9 + 8 × 3 ÷ 20 = ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "2"
+      },
+      {
+        "letter": "b",
+        "text": "6"
+      },
+      {
+        "letter": "c",
+        "text": "10"
+      },
+      {
+        "letter": "d",
+        "text": "12"
+      }
+    ],
+    "answer": "c",
+    "explanation": "6 + 9 × 8 ÷ 3 − 20 = 6 + 24 − 20.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 17,
+    "question": "If the alphabet is written in reverse order, which letter is 7th to the right of the 10th letter from the left?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "J"
+      },
+      {
+        "letter": "b",
+        "text": "K"
+      },
+      {
+        "letter": "c",
+        "text": "I"
+      },
+      {
+        "letter": "d",
+        "text": "Q"
+      }
+    ],
+    "answer": "a",
+    "explanation": "It is the 17th letter of the reversed alphabet = 27 − 17 = 10th normal letter = J.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 18,
+    "question": "Which Venn diagram best represents Doctors, Lawyers, Professionals?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Three separate circles"
+      },
+      {
+        "letter": "b",
+        "text": "Two separate circles inside a bigger circle"
+      },
+      {
+        "letter": "c",
+        "text": "Three concentric circles"
+      },
+      {
+        "letter": "d",
+        "text": "Three overlapping circles"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Doctors and lawyers are both professionals, and don't overlap.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  }
+]

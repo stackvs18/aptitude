@@ -1,0 +1,418 @@
+[
+  {
+    "number": 1,
+    "question": "5.5 dozen pens cost ₹1287. Price of 16 pens?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "₹212"
+      },
+      {
+        "letter": "b",
+        "text": "₹296"
+      },
+      {
+        "letter": "c",
+        "text": "₹312"
+      },
+      {
+        "letter": "d",
+        "text": "₹412"
+      }
+    ],
+    "answer": "c",
+    "explanation": "66 pens → ₹19.50 each → 16 × 19.5.",
+    "source": "Book Q2",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 2,
+    "question": "¼ kg potatoes cost 60 paise. Cost of 200 g?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "48 p"
+      },
+      {
+        "letter": "b",
+        "text": "54 p"
+      },
+      {
+        "letter": "c",
+        "text": "56 p"
+      },
+      {
+        "letter": "d",
+        "text": "72 p"
+      }
+    ],
+    "answer": "a",
+    "explanation": "60 × 200/250.",
+    "source": "Book Q4",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 3,
+    "question": "11.25 m of rod weighs 42.75 kg. Weight of 6 m?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "22.8 kg"
+      },
+      {
+        "letter": "b",
+        "text": "25.6 kg"
+      },
+      {
+        "letter": "c",
+        "text": "28 kg"
+      },
+      {
+        "letter": "d",
+        "text": "26.5 kg"
+      }
+    ],
+    "answer": "a",
+    "explanation": "3.8 kg/m × 6.",
+    "source": "Book Q5",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 4,
+    "question": "On a map, 0.6 cm = 6.6 km. 80.5 cm on the map = ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "9 km"
+      },
+      {
+        "letter": "b",
+        "text": "72.5 km"
+      },
+      {
+        "letter": "c",
+        "text": "190.75 km"
+      },
+      {
+        "letter": "d",
+        "text": "885.5 km"
+      }
+    ],
+    "answer": "d",
+    "explanation": "11 km/cm × 80.5.",
+    "source": "Book Q6",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 5,
+    "question": "A 17.5 m flagstaff casts a 40.25 m shadow. Height of a building casting a 28.75 m shadow?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "10 m"
+      },
+      {
+        "letter": "b",
+        "text": "12.5 m"
+      },
+      {
+        "letter": "c",
+        "text": "17.5 m"
+      },
+      {
+        "letter": "d",
+        "text": "21.25 m"
+      }
+    ],
+    "answer": "b",
+    "explanation": "17.5 × 28.75/40.25.",
+    "source": "Book Q13",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 6,
+    "question": "56 men complete a work in 24 days. 42 men will take",
+    "options": [
+      {
+        "letter": "a",
+        "text": "18"
+      },
+      {
+        "letter": "b",
+        "text": "32"
+      },
+      {
+        "letter": "c",
+        "text": "48"
+      },
+      {
+        "letter": "d",
+        "text": "98"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Indirect: 56 × 24/42.",
+    "source": "Book Q16",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 7,
+    "question": "30 men do a work in 16 days. Men needed to do it in 20 days?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "12"
+      },
+      {
+        "letter": "b",
+        "text": "24"
+      },
+      {
+        "letter": "c",
+        "text": "36"
+      },
+      {
+        "letter": "d",
+        "text": "48"
+      }
+    ],
+    "answer": "b",
+    "explanation": "30 × 16/20.",
+    "source": "Book Q17",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 8,
+    "question": "Some workers promise to finish a job in 10 days, but 5 don't turn up and the rest take 12 days. Workers originally hired?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "15"
+      },
+      {
+        "letter": "b",
+        "text": "25"
+      },
+      {
+        "letter": "c",
+        "text": "30"
+      },
+      {
+        "letter": "d",
+        "text": "45"
+      }
+    ],
+    "answer": "c",
+    "explanation": "10x = 12(x − 5) → x = 30.",
+    "source": "Book Q18",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 9,
+    "question": "A 6-cog wheel meshes with a 14-cog wheel. When the small one makes 21 revolutions, the big one makes",
+    "options": [
+      {
+        "letter": "a",
+        "text": "4"
+      },
+      {
+        "letter": "b",
+        "text": "9"
+      },
+      {
+        "letter": "c",
+        "text": "12"
+      },
+      {
+        "letter": "d",
+        "text": "49"
+      }
+    ],
+    "answer": "b",
+    "explanation": "6 × 21 = 14 × r.",
+    "source": "Book Q19",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 10,
+    "question": "A camp has meals for 120 men or 200 children. If 150 children have eaten, how many men can the rest feed?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "20"
+      },
+      {
+        "letter": "b",
+        "text": "30"
+      },
+      {
+        "letter": "c",
+        "text": "40"
+      },
+      {
+        "letter": "d",
+        "text": "50"
+      }
+    ],
+    "answer": "b",
+    "explanation": "50 children's food left = 50 × 120/200 = 30 men.",
+    "source": "Book Q20",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 11,
+    "question": "4 weavers weave 4 mats in 4 days. 8 weavers in 8 days weave",
+    "options": [
+      {
+        "letter": "a",
+        "text": "4"
+      },
+      {
+        "letter": "b",
+        "text": "8"
+      },
+      {
+        "letter": "c",
+        "text": "12"
+      },
+      {
+        "letter": "d",
+        "text": "16"
+      }
+    ],
+    "answer": "d",
+    "explanation": "1 weaver: 1 mat per 4 days → 8 × 8/4 = 16.",
+    "source": "Book Q22",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 12,
+    "question": "7 maids with 7 mops clean 7 floors in 7 hours. 3 maids with 3 mops clean 3 floors in",
+    "options": [
+      {
+        "letter": "a",
+        "text": "7/3 h"
+      },
+      {
+        "letter": "b",
+        "text": "3 h"
+      },
+      {
+        "letter": "c",
+        "text": "49/3 h"
+      },
+      {
+        "letter": "d",
+        "text": "7 h"
+      }
+    ],
+    "answer": "d",
+    "explanation": "One maid cleans one floor in 7 h.",
+    "source": "Book Q23",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 13,
+    "question": "6 people working 8 h/day earn ₹8400 a week. 9 people working 6 h/day earn",
+    "options": [
+      {
+        "letter": "a",
+        "text": "₹8400"
+      },
+      {
+        "letter": "b",
+        "text": "₹9450"
+      },
+      {
+        "letter": "c",
+        "text": "₹16200"
+      },
+      {
+        "letter": "d",
+        "text": "₹16800"
+      }
+    ],
+    "answer": "b",
+    "explanation": "8400 × (9 × 6)/(6 × 8).",
+    "source": "Book Q26",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 14,
+    "question": "5 workers collect 60 kg wheat in 3 days. 8 workers in 5 days collect",
+    "options": [
+      {
+        "letter": "a",
+        "text": "80"
+      },
+      {
+        "letter": "b",
+        "text": "100"
+      },
+      {
+        "letter": "c",
+        "text": "120"
+      },
+      {
+        "letter": "d",
+        "text": "160 kg"
+      }
+    ],
+    "answer": "d",
+    "explanation": "60 × (8 × 5)/(5 × 3).",
+    "source": "Book Q27",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 15,
+    "question": "39 persons repair a road in 12 days working 5 h/day. In how many days will 30 persons working 6 h/day do it?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "10"
+      },
+      {
+        "letter": "b",
+        "text": "13"
+      },
+      {
+        "letter": "c",
+        "text": "14"
+      },
+      {
+        "letter": "d",
+        "text": "15"
+      }
+    ],
+    "answer": "b",
+    "explanation": "M₁D₁H₁ = M₂D₂H₂ → 39 × 12 × 5 = 30 × D × 6.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 16,
+    "question": "6 machines make 180 bottles per hour. 15 machines in 30 minutes make",
+    "options": [
+      {
+        "letter": "a",
+        "text": "225"
+      },
+      {
+        "letter": "b",
+        "text": "250"
+      },
+      {
+        "letter": "c",
+        "text": "300"
+      },
+      {
+        "letter": "d",
+        "text": "350"
+      }
+    ],
+    "answer": "a",
+    "explanation": "30 bottles per machine per hour → 15 × 15.",
+    "source": "Book Q25",
+    "bookKeyCorrected": false
+  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "number": 1,
+    "question": "Mix pulses at ₹15/kg and ₹20/kg to get a ₹16.50/kg mixture. Ratio?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "3:7"
+      },
+      {
+        "letter": "b",
+        "text": "5:7"
+      },
+      {
+        "letter": "c",
+        "text": "7:3"
+      },
+      {
+        "letter": "d",
+        "text": "7:5"
+      }
+    ],
+    "answer": "c",
+    "explanation": "(20 − 16.5) : (16.5 − 15) = 3.5 : 1.5 = 7 : 3.",
+    "source": "Book Q1",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 2,
+    "question": "Rice at ₹7.20/kg mixed with rice at ₹5.70/kg to get ₹6.30/kg. Ratio?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "1:3"
+      },
+      {
+        "letter": "b",
+        "text": "2:3"
+      },
+      {
+        "letter": "c",
+        "text": "3:4"
+      },
+      {
+        "letter": "d",
+        "text": "4:5"
+      }
+    ],
+    "answer": "b",
+    "explanation": "(6.30 − 5.70) : (7.20 − 6.30) = 0.6 : 0.9.",
+    "source": "Book Q2",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 3,
+    "question": "Tea at ₹62/kg mixed with tea at ₹72/kg to get ₹64.50/kg. Ratio?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "3:1"
+      },
+      {
+        "letter": "b",
+        "text": "3:2"
+      },
+      {
+        "letter": "c",
+        "text": "4:3"
+      },
+      {
+        "letter": "d",
+        "text": "5:3"
+      }
+    ],
+    "answer": "a",
+    "explanation": "7.5 : 2.5.",
+    "source": "Book Q3",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 4,
+    "question": "In what ratio must water be mixed with milk costing ₹12/L to get a mixture worth ₹8/L?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "1:2"
+      },
+      {
+        "letter": "b",
+        "text": "2:1"
+      },
+      {
+        "letter": "c",
+        "text": "2:3"
+      },
+      {
+        "letter": "d",
+        "text": "3:2"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Water costs 0: water : milk = (12 − 8) : (8 − 0) = 4 : 8.",
+    "source": "Book Q4",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 5,
+    "question": "Rice at ₹15 and ₹20 mixed in ratio 2 : 3. Price of mixture?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "₹18"
+      },
+      {
+        "letter": "b",
+        "text": "₹18.50"
+      },
+      {
+        "letter": "c",
+        "text": "₹19"
+      },
+      {
+        "letter": "d",
+        "text": "₹19.50"
+      }
+    ],
+    "answer": "a",
+    "explanation": "(30 + 60)/5.",
+    "source": "Book Q5",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 6,
+    "question": "Teas at ₹60 and ₹65 are mixed; selling the mix at ₹68.20 gives 10% gain. Ratio?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "3:2"
+      },
+      {
+        "letter": "b",
+        "text": "3:4"
+      },
+      {
+        "letter": "c",
+        "text": "3:5"
+      },
+      {
+        "letter": "d",
+        "text": "4:5"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Mean C.P. = 68.20/1.1 = 62 → (65 − 62) : (62 − 60).",
+    "source": "Book Q6",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 7,
+    "question": "A milkman sells milk at C.P. but adds water and gains 25%. Percentage of water in the mixture?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "4%"
+      },
+      {
+        "letter": "b",
+        "text": "6¼%"
+      },
+      {
+        "letter": "c",
+        "text": "20%"
+      },
+      {
+        "letter": "d",
+        "text": "25%"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Water : milk = 1 : 4 → water = 1/5 of mixture.",
+    "source": "Book Q9",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 8,
+    "question": "Milkman gains 25% by selling the mixture at C.P. Water : milk =",
+    "options": [
+      {
+        "letter": "a",
+        "text": "5:4"
+      },
+      {
+        "letter": "b",
+        "text": "4:5"
+      },
+      {
+        "letter": "c",
+        "text": "1:5"
+      },
+      {
+        "letter": "d",
+        "text": "1:4"
+      }
+    ],
+    "answer": "d",
+    "explanation": "",
+    "source": "Book Q21",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 9,
+    "question": "A merchant sells part of 1000 kg sugar at 8% profit and the rest at 18%, gaining 14% overall. Quantity sold at 18%?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "400"
+      },
+      {
+        "letter": "b",
+        "text": "560"
+      },
+      {
+        "letter": "c",
+        "text": "600"
+      },
+      {
+        "letter": "d",
+        "text": "640"
+      }
+    ],
+    "answer": "c",
+    "explanation": "8% : 18% parts = (18 − 14) : (14 − 8) = 2 : 3 → 18% part = 600.",
+    "source": "Book Q15",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 10,
+    "question": "Whisky with 40% alcohol; part replaced by whisky with 19% alcohol; now 26%. Fraction replaced?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "1/3"
+      },
+      {
+        "letter": "b",
+        "text": "2/3"
+      },
+      {
+        "letter": "c",
+        "text": "2/5"
+      },
+      {
+        "letter": "d",
+        "text": "3/5"
+      }
+    ],
+    "answer": "b",
+    "explanation": "40% : 19% = (26 − 19) : (40 − 26) = 1 : 2 → replaced = 2/3.",
+    "source": "Book Q16",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 11,
+    "question": "40 L milk; 4 L taken out and replaced by water, done 3 times in all. Milk left?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "26.34 L"
+      },
+      {
+        "letter": "b",
+        "text": "27.36 L"
+      },
+      {
+        "letter": "c",
+        "text": "28 L"
+      },
+      {
+        "letter": "d",
+        "text": "29.16 L"
+      }
+    ],
+    "answer": "d",
+    "explanation": "40 (1 − 4/40)³ = 40 × 0.729.",
+    "source": "Book Q17",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 12,
+    "question": "20 L of milk : water = 3 : 1. Milk to add to make it 4 : 1?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "7 L"
+      },
+      {
+        "letter": "b",
+        "text": "4 L"
+      },
+      {
+        "letter": "c",
+        "text": "5 L"
+      },
+      {
+        "letter": "d",
+        "text": "6 L"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Water stays 5 L → milk must be 20 → add 5.",
+    "source": "Book Q22",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 13,
+    "question": "Wheat at ₹9.30/kg mixed with another in ratio 8 : 7; mixture worth ₹10/kg. Rate of the second?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "₹10.30"
+      },
+      {
+        "letter": "b",
+        "text": "₹10.60"
+      },
+      {
+        "letter": "c",
+        "text": "₹10.80"
+      },
+      {
+        "letter": "d",
+        "text": "₹11"
+      }
+    ],
+    "answer": "c",
+    "explanation": "8 × 9.30 + 7x = 150 → 7x = 75.6.",
+    "source": "Book Q13",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 14,
+    "question": "Vessels A and B have milk : water 8 : 5 and 5 : 2. In what ratio mix them to get 69 3/13 % milk (= 9/13)?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "2:7"
+      },
+      {
+        "letter": "b",
+        "text": "3:5"
+      },
+      {
+        "letter": "c",
+        "text": "5:2"
+      },
+      {
+        "letter": "d",
+        "text": "5:7"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Milk fractions 8/13 and 5/7; target 9/13. (5/7 − 9/13) : (9/13 − 8/13) = (2/91) : (7/91) = 2 : 7.",
+    "source": "Book Q11",
+    "bookKeyCorrected": false
+  }
+]

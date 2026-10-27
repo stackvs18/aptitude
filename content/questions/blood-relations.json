@@ -1,0 +1,392 @@
+[
+  {
+    "number": 1,
+    "question": "Pointing to a photograph, a man said, \"I have no brother or sister, but that man's father is my father's son.\" Whose photograph is it?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "His own"
+      },
+      {
+        "letter": "b",
+        "text": "His son's"
+      },
+      {
+        "letter": "c",
+        "text": "His father's"
+      },
+      {
+        "letter": "d",
+        "text": "His nephew's"
+      }
+    ],
+    "answer": "b",
+    "explanation": "\"My father's son\" (no siblings) = himself → that man's father is the speaker → the man is his son.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 2,
+    "question": "Pointing to a man, a woman said, \"His mother is the only daughter of my mother.\" How is the woman related to the man?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Sister"
+      },
+      {
+        "letter": "b",
+        "text": "Aunt"
+      },
+      {
+        "letter": "c",
+        "text": "Mother"
+      },
+      {
+        "letter": "d",
+        "text": "Grandmother"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Only daughter of her mother = herself.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 3,
+    "question": "Introducing a man, a woman said, \"His wife is the only daughter of my father.\" The man is the woman's",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Brother"
+      },
+      {
+        "letter": "b",
+        "text": "Husband"
+      },
+      {
+        "letter": "c",
+        "text": "Father-in-law"
+      },
+      {
+        "letter": "d",
+        "text": "Son"
+      }
+    ],
+    "answer": "b",
+    "explanation": "",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 4,
+    "question": "Pointing to a gentleman, Deepak said, \"His only brother is the father of my daughter's father.\" The gentleman is Deepak's",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Father"
+      },
+      {
+        "letter": "b",
+        "text": "Grandfather"
+      },
+      {
+        "letter": "c",
+        "text": "Uncle"
+      },
+      {
+        "letter": "d",
+        "text": "Brother-in-law"
+      }
+    ],
+    "answer": "c",
+    "explanation": "My daughter's father = Deepak; his father = Deepak's father; the gentleman is his only brother → uncle.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 5,
+    "question": "A is B's sister. C is B's mother. D is C's father. E is D's mother. How is A related to D?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Grandmother"
+      },
+      {
+        "letter": "b",
+        "text": "Granddaughter"
+      },
+      {
+        "letter": "c",
+        "text": "Daughter"
+      },
+      {
+        "letter": "d",
+        "text": "Grandfather"
+      }
+    ],
+    "answer": "b",
+    "explanation": "A is C's daughter; C is D's daughter.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 6,
+    "question": "X and Y are brothers. R is the father of Y. S is the brother of T and the maternal uncle of X. What is T to R?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Mother"
+      },
+      {
+        "letter": "b",
+        "text": "Wife"
+      },
+      {
+        "letter": "c",
+        "text": "Sister"
+      },
+      {
+        "letter": "d",
+        "text": "Brother"
+      }
+    ],
+    "answer": "b",
+    "explanation": "S is X's maternal uncle and T's brother → T is X's mother. R is X's father → T is R's wife.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 7,
+    "question": "A is the son of B. C, B's sister, has a son D and a daughter E. F is the maternal uncle of D. How is A related to D?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Nephew"
+      },
+      {
+        "letter": "b",
+        "text": "Cousin"
+      },
+      {
+        "letter": "c",
+        "text": "Uncle"
+      },
+      {
+        "letter": "d",
+        "text": "Brother"
+      }
+    ],
+    "answer": "b",
+    "explanation": "A and D are children of siblings.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 8,
+    "question": "Pointing to a lady, a man said, \"The son of her only brother is the brother of my wife.\" The lady is the man's",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Sister-in-law"
+      },
+      {
+        "letter": "b",
+        "text": "Mother-in-law"
+      },
+      {
+        "letter": "c",
+        "text": "Sister of his father-in-law"
+      },
+      {
+        "letter": "d",
+        "text": "Maternal aunt"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Her brother's son = wife's brother → her brother = wife's father.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 9,
+    "question": "Neena says, \"Anita's father Raman is the only son of my father-in-law Mahipal.\" Bindu is Anita's sister. How is Bindu related to Mahipal?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Daughter"
+      },
+      {
+        "letter": "b",
+        "text": "Wife"
+      },
+      {
+        "letter": "c",
+        "text": "Granddaughter"
+      },
+      {
+        "letter": "d",
+        "text": "Daughter-in-law"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Raman is Mahipal's son; Bindu is Raman's daughter.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 10,
+    "question": "Pointing to a woman, Abhijit said, \"Her granddaughter is the only daughter of my brother.\" The woman is Abhijit's",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Sister"
+      },
+      {
+        "letter": "b",
+        "text": "Grandmother"
+      },
+      {
+        "letter": "c",
+        "text": "Mother"
+      },
+      {
+        "letter": "d",
+        "text": "Aunt"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Brother's daughter's grandmother (father's side) = Abhijit's mother.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 11,
+    "question": "If A + B means A is the brother of B, A − B means A is the sister of B, and A × B means A is the father of B, which means \"C is the son of M\"?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "M − N × C + F"
+      },
+      {
+        "letter": "b",
+        "text": "F − C + N × M"
+      },
+      {
+        "letter": "c",
+        "text": "N + M − F × C"
+      },
+      {
+        "letter": "d",
+        "text": "M × N − C + F"
+      }
+    ],
+    "answer": "d",
+    "explanation": "M is father of N; N is sister of C; C is brother of F → C is male and M's child.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 12,
+    "question": "If P $ Q means P is the mother of Q, P # Q means P is the husband of Q, and P @ Q means P is the son of Q, then in A # B $ C, how is A related to C?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Father"
+      },
+      {
+        "letter": "b",
+        "text": "Uncle"
+      },
+      {
+        "letter": "c",
+        "text": "Brother"
+      },
+      {
+        "letter": "d",
+        "text": "Son"
+      }
+    ],
+    "answer": "a",
+    "explanation": "A is the husband of B, and B is the mother of C → A is C's father.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 13,
+    "question": "A is the father of C, but C is not his son. E is C's daughter. F is A's spouse. B is C's brother. D is B's son. G is B's spouse. H is G's father. Who is F's granddaughter?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "D"
+      },
+      {
+        "letter": "b",
+        "text": "E"
+      },
+      {
+        "letter": "c",
+        "text": "G"
+      },
+      {
+        "letter": "d",
+        "text": "H"
+      }
+    ],
+    "answer": "b",
+    "explanation": "C is A and F's daughter; E is C's daughter.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 14,
+    "question": "Rita told Mani, \"The girl I met yesterday was the youngest daughter of the brother-in-law of my friend's mother.\" The girl is Rita's friend's",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Sister"
+      },
+      {
+        "letter": "b",
+        "text": "Niece"
+      },
+      {
+        "letter": "c",
+        "text": "Cousin"
+      },
+      {
+        "letter": "d",
+        "text": "Daughter"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Mother's brother-in-law = friend's uncle → his daughter = cousin.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 15,
+    "question": "Introducing a boy, a girl said, \"He is the son of the daughter of the father of my uncle.\" The boy is the girl's",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Brother"
+      },
+      {
+        "letter": "b",
+        "text": "Nephew"
+      },
+      {
+        "letter": "c",
+        "text": "Uncle"
+      },
+      {
+        "letter": "d",
+        "text": "Brother or cousin"
+      }
+    ],
+    "answer": "d",
+    "explanation": "Father of uncle = grandfather; his daughter = mother or aunt; her son = brother or cousin.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  }
+]

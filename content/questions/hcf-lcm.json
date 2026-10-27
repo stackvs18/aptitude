@@ -1,0 +1,808 @@
+[
+  {
+    "number": 1,
+    "question": "H.C.F. of 36 and 84 is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "4"
+      },
+      {
+        "letter": "b",
+        "text": "6"
+      },
+      {
+        "letter": "c",
+        "text": "12"
+      },
+      {
+        "letter": "d",
+        "text": "18"
+      }
+    ],
+    "answer": "c",
+    "explanation": "36 = 2²·3², 84 = 2²·3·7 → 2²·3 = 12.",
+    "source": "Book Q13",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 2,
+    "question": "H.C.F. of 204, 1190 and 1445 is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "17"
+      },
+      {
+        "letter": "b",
+        "text": "18"
+      },
+      {
+        "letter": "c",
+        "text": "19"
+      },
+      {
+        "letter": "d",
+        "text": "21"
+      }
+    ],
+    "answer": "a",
+    "explanation": "204 = 12·17, 1190 = 70·17, 1445 = 85·17.",
+    "source": "Book Q15",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 3,
+    "question": "Which is a pair of co-primes?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "(16, 62)"
+      },
+      {
+        "letter": "b",
+        "text": "(18, 25)"
+      },
+      {
+        "letter": "c",
+        "text": "(21, 35)"
+      },
+      {
+        "letter": "d",
+        "text": "(23, 92)"
+      }
+    ],
+    "answer": "b",
+    "explanation": "HCF(18, 25) = 1.",
+    "source": "Book Q16",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 4,
+    "question": "The highest common factor of 0 and 6 is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "0"
+      },
+      {
+        "letter": "b",
+        "text": "3"
+      },
+      {
+        "letter": "c",
+        "text": "6"
+      },
+      {
+        "letter": "d",
+        "text": "Undefined"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Every number divides 0, so HCF(0, n) = n.",
+    "source": "Book Q9",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 5,
+    "question": "L.C.M. of 24, 36 and 40 is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "120"
+      },
+      {
+        "letter": "b",
+        "text": "240"
+      },
+      {
+        "letter": "c",
+        "text": "360"
+      },
+      {
+        "letter": "d",
+        "text": "480"
+      }
+    ],
+    "answer": "c",
+    "explanation": "2³·3²·5 = 360.",
+    "source": "Book Q20",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 6,
+    "question": "L.C.M. of 148 and 185 is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "680"
+      },
+      {
+        "letter": "b",
+        "text": "740"
+      },
+      {
+        "letter": "c",
+        "text": "2960"
+      },
+      {
+        "letter": "d",
+        "text": "3700"
+      }
+    ],
+    "answer": "b",
+    "explanation": "148 = 4·37, 185 = 5·37 → 4·5·37 = 740.",
+    "source": "Book Q22",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 7,
+    "question": "H.C.F. of 1.75, 5.6 and 7 is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "0.07"
+      },
+      {
+        "letter": "b",
+        "text": "0.7"
+      },
+      {
+        "letter": "c",
+        "text": "3.5"
+      },
+      {
+        "letter": "d",
+        "text": "0.35"
+      }
+    ],
+    "answer": "d",
+    "explanation": "Make 2 decimals: 175, 560, 700 → HCF 35 → 0.35.",
+    "source": "Book Q29",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 8,
+    "question": "G.C.D. of 1.08, 0.36 and 0.9 is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "0.03"
+      },
+      {
+        "letter": "b",
+        "text": "0.9"
+      },
+      {
+        "letter": "c",
+        "text": "0.18"
+      },
+      {
+        "letter": "d",
+        "text": "0.108"
+      }
+    ],
+    "answer": "c",
+    "explanation": "108, 36, 90 → HCF 18 → 0.18.",
+    "source": "Book Q30",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 9,
+    "question": "L.C.M. of 3, 2.7 and 0.09 is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "2.7"
+      },
+      {
+        "letter": "b",
+        "text": "0.27"
+      },
+      {
+        "letter": "c",
+        "text": "0.027"
+      },
+      {
+        "letter": "d",
+        "text": "27"
+      }
+    ],
+    "answer": "d",
+    "explanation": "300, 270, 9 → LCM 2700 → 27.00 = 27.",
+    "source": "Book Q32",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 10,
+    "question": "Three numbers are in the ratio 1 : 2 : 3 and their H.C.F. is 12. The numbers are",
+    "options": [
+      {
+        "letter": "a",
+        "text": "4, 8, 12"
+      },
+      {
+        "letter": "b",
+        "text": "5, 10, 15"
+      },
+      {
+        "letter": "c",
+        "text": "10, 20, 30"
+      },
+      {
+        "letter": "d",
+        "text": "12, 24, 36"
+      }
+    ],
+    "answer": "d",
+    "explanation": "12×1, 12×2, 12×3.",
+    "source": "Book Q35",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 11,
+    "question": "The ratio of two numbers is 3 : 4 and their H.C.F. is 4. Their L.C.M. is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "12"
+      },
+      {
+        "letter": "b",
+        "text": "16"
+      },
+      {
+        "letter": "c",
+        "text": "24"
+      },
+      {
+        "letter": "d",
+        "text": "48"
+      }
+    ],
+    "answer": "d",
+    "explanation": "Numbers 12, 16 → LCM = 4 × 3 × 4 = 48.",
+    "source": "Book Q36",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 12,
+    "question": "The sum of two numbers is 528 and their H.C.F. is 33. Number of such pairs:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "4"
+      },
+      {
+        "letter": "b",
+        "text": "6"
+      },
+      {
+        "letter": "c",
+        "text": "8"
+      },
+      {
+        "letter": "d",
+        "text": "12"
+      }
+    ],
+    "answer": "a",
+    "explanation": "33(a + b) = 528 → a + b = 16 with a, b co-prime: (1,15), (3,13), (5,11), (7,9).",
+    "source": "Book Q38",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 13,
+    "question": "H.C.F. of two numbers is 12 and their difference is 12. The numbers are",
+    "options": [
+      {
+        "letter": "a",
+        "text": "66, 78"
+      },
+      {
+        "letter": "b",
+        "text": "70, 82"
+      },
+      {
+        "letter": "c",
+        "text": "94, 106"
+      },
+      {
+        "letter": "d",
+        "text": "84, 96"
+      }
+    ],
+    "answer": "d",
+    "explanation": "Only 84 and 96 are both multiples of 12.",
+    "source": "Book Q40",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 14,
+    "question": "The product of two numbers is 4107 and their H.C.F. is 37. The greater number is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "101"
+      },
+      {
+        "letter": "b",
+        "text": "107"
+      },
+      {
+        "letter": "c",
+        "text": "111"
+      },
+      {
+        "letter": "d",
+        "text": "185"
+      }
+    ],
+    "answer": "c",
+    "explanation": "37a × 37b = 4107 → ab = 3 → numbers 37 and 111.",
+    "source": "Book Q41",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 15,
+    "question": "The product of two numbers is 2028 and their H.C.F. is 13. The number of such pairs is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "1"
+      },
+      {
+        "letter": "b",
+        "text": "2"
+      },
+      {
+        "letter": "c",
+        "text": "3"
+      },
+      {
+        "letter": "d",
+        "text": "4"
+      }
+    ],
+    "answer": "b",
+    "explanation": "ab = 2028/169 = 12, co-prime pairs: (1,12), (3,4).",
+    "source": "Book Q42",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 16,
+    "question": "Three numbers are in ratio 3 : 4 : 5 and their L.C.M. is 2400. Their H.C.F. is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "40"
+      },
+      {
+        "letter": "b",
+        "text": "80"
+      },
+      {
+        "letter": "c",
+        "text": "120"
+      },
+      {
+        "letter": "d",
+        "text": "200"
+      }
+    ],
+    "answer": "a",
+    "explanation": "LCM of 3x, 4x, 5x = 60x = 2400 → x = 40 = HCF.",
+    "source": "Book Q45",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 17,
+    "question": "H.C.F. and L.C.M. of two numbers are 12 and 336. If one number is 84, the other is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "36"
+      },
+      {
+        "letter": "b",
+        "text": "48"
+      },
+      {
+        "letter": "c",
+        "text": "72"
+      },
+      {
+        "letter": "d",
+        "text": "96"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Other = (12 × 336)/84 = 48.",
+    "source": "Book Q47",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 18,
+    "question": "If the product of two numbers is 324 and their H.C.F. is 3, their L.C.M. is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "972"
+      },
+      {
+        "letter": "b",
+        "text": "327"
+      },
+      {
+        "letter": "c",
+        "text": "321"
+      },
+      {
+        "letter": "d",
+        "text": "108"
+      }
+    ],
+    "answer": "d",
+    "explanation": "324/3 = 108.",
+    "source": "Book Q48",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 19,
+    "question": "Greatest number that will divide 43, 91 and 183 leaving the same remainder in each case:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "4"
+      },
+      {
+        "letter": "b",
+        "text": "7"
+      },
+      {
+        "letter": "c",
+        "text": "9"
+      },
+      {
+        "letter": "d",
+        "text": "13"
+      }
+    ],
+    "answer": "a",
+    "explanation": "HCF of differences: HCF(48, 92, 140) = 4.",
+    "source": "Book Q78",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 20,
+    "question": "Greatest number that divides 3026 and 5053 leaving remainders 11 and 13 respectively:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "15"
+      },
+      {
+        "letter": "b",
+        "text": "30"
+      },
+      {
+        "letter": "c",
+        "text": "45"
+      },
+      {
+        "letter": "d",
+        "text": "60"
+      }
+    ],
+    "answer": "c",
+    "explanation": "HCF(3015, 5040) = 45.",
+    "source": "Book Q83",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 21,
+    "question": "Greatest number that divides 964, 1238 and 1400 leaving remainders 41, 31 and 51:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "61"
+      },
+      {
+        "letter": "b",
+        "text": "71"
+      },
+      {
+        "letter": "c",
+        "text": "73"
+      },
+      {
+        "letter": "d",
+        "text": "81"
+      }
+    ],
+    "answer": "b",
+    "explanation": "HCF(923, 1207, 1349) = 71 (923 = 13·71, 1207 = 17·71, 1349 = 19·71).",
+    "source": "Book Q84",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 22,
+    "question": "Least natural number divisible by all digits 1 to 9:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "1800"
+      },
+      {
+        "letter": "b",
+        "text": "1920"
+      },
+      {
+        "letter": "c",
+        "text": "2520"
+      },
+      {
+        "letter": "d",
+        "text": "5040"
+      }
+    ],
+    "answer": "c",
+    "explanation": "LCM(1…9) = 2³·3²·5·7 = 2520.",
+    "source": "Book Q86",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 23,
+    "question": "Least 5-digit number exactly divisible by 12, 15 and 18:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "10010"
+      },
+      {
+        "letter": "b",
+        "text": "10015"
+      },
+      {
+        "letter": "c",
+        "text": "10020"
+      },
+      {
+        "letter": "d",
+        "text": "10080"
+      }
+    ],
+    "answer": "d",
+    "explanation": "LCM = 180; 10000 ÷ 180 = 55.5 → 56 × 180 = 10080.",
+    "source": "Book Q90",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 24,
+    "question": "Greatest 4-digit number divisible by 15, 25, 40 and 75:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "9000"
+      },
+      {
+        "letter": "b",
+        "text": "9400"
+      },
+      {
+        "letter": "c",
+        "text": "9600"
+      },
+      {
+        "letter": "d",
+        "text": "9800"
+      }
+    ],
+    "answer": "c",
+    "explanation": "LCM = 600; 9999 ÷ 600 = 16.6 → 16 × 600 = 9600.",
+    "source": "Book Q91",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 25,
+    "question": "Least number to be added to 2497 so the sum is divisible by 5, 6, 4 and 3:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "3"
+      },
+      {
+        "letter": "b",
+        "text": "13"
+      },
+      {
+        "letter": "c",
+        "text": "23"
+      },
+      {
+        "letter": "d",
+        "text": "33"
+      }
+    ],
+    "answer": "c",
+    "explanation": "LCM 60; 2497 = 60 × 41 + 37 → add 60 − 37 = 23.",
+    "source": "Book Q94",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 26,
+    "question": "Least number which, divided by 12, 15, 20 and 54, leaves remainder 8 in each case:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "504"
+      },
+      {
+        "letter": "b",
+        "text": "536"
+      },
+      {
+        "letter": "c",
+        "text": "544"
+      },
+      {
+        "letter": "d",
+        "text": "548"
+      }
+    ],
+    "answer": "d",
+    "explanation": "LCM = 540 → 540 + 8 = 548.",
+    "source": "Book Q99",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 27,
+    "question": "A number less than 500, divided by 4, 5, 6, 7 leaves remainder 1 each time. The number is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "211"
+      },
+      {
+        "letter": "b",
+        "text": "420"
+      },
+      {
+        "letter": "c",
+        "text": "421"
+      },
+      {
+        "letter": "d",
+        "text": "441"
+      }
+    ],
+    "answer": "c",
+    "explanation": "LCM = 420 → 421.",
+    "source": "Book Q100",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 28,
+    "question": "Greatest 3-digit number which, divided by 6, 9 and 12, leaves remainder 3 in each case:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "903"
+      },
+      {
+        "letter": "b",
+        "text": "939"
+      },
+      {
+        "letter": "c",
+        "text": "975"
+      },
+      {
+        "letter": "d",
+        "text": "996"
+      }
+    ],
+    "answer": "c",
+    "explanation": "LCM 36; largest multiple ≤ 999 is 972 → 972 + 3 = 975.",
+    "source": "Book Q101",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 29,
+    "question": "A courtyard 3.78 m × 5.25 m is to be paved with equal square tiles. Largest possible tile size:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "14 cm"
+      },
+      {
+        "letter": "b",
+        "text": "21 cm"
+      },
+      {
+        "letter": "c",
+        "text": "42 cm"
+      },
+      {
+        "letter": "d",
+        "text": "None"
+      }
+    ],
+    "answer": "b",
+    "explanation": "HCF(378, 525) = 21 cm.",
+    "source": "Book Q74",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 30,
+    "question": "Least number of square tiles to pave a floor 15 m 17 cm × 9 m 2 cm:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "656"
+      },
+      {
+        "letter": "b",
+        "text": "738"
+      },
+      {
+        "letter": "c",
+        "text": "814"
+      },
+      {
+        "letter": "d",
+        "text": "902"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Side = HCF(1517, 902) = 41 cm. Tiles = (1517/41) × (902/41) = 37 × 22 = 814.",
+    "source": "Book Q75",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 31,
+    "question": "Six bells toll together at intervals of 2, 4, 6, 8, 10, 12 seconds. In 30 minutes, how many times do they toll together?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "4"
+      },
+      {
+        "letter": "b",
+        "text": "10"
+      },
+      {
+        "letter": "c",
+        "text": "15"
+      },
+      {
+        "letter": "d",
+        "text": "16"
+      }
+    ],
+    "answer": "d",
+    "explanation": "LCM = 120 s. In 1800 s: 1800/120 = 15 times, **+1** for the start = 16.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  }
+]

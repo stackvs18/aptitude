@@ -1,0 +1,600 @@
+[
+  {
+    "number": 1,
+    "question": "C.P. = ₹7840. S.P. for 7% profit?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "₹8000"
+      },
+      {
+        "letter": "b",
+        "text": "₹8300"
+      },
+      {
+        "letter": "c",
+        "text": "₹8388.80"
+      },
+      {
+        "letter": "d",
+        "text": "₹8500.50"
+      }
+    ],
+    "answer": "c",
+    "explanation": "7840 × 1.07.",
+    "source": "Book Q5",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 2,
+    "question": "Rajni bought a mobile for ₹12000 and a fridge for ₹10000. She sold the fridge at 12% loss and the mobile at 8% profit. Overall?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Loss ₹280"
+      },
+      {
+        "letter": "b",
+        "text": "Loss ₹240"
+      },
+      {
+        "letter": "c",
+        "text": "Profit ₹240"
+      },
+      {
+        "letter": "d",
+        "text": "Profit ₹280"
+      }
+    ],
+    "answer": "b",
+    "explanation": "+960 − 1200 = −240.",
+    "source": "Book Q7",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 3,
+    "question": "Scooter bought for ₹4700, ₹800 spent on repairs, sold for ₹5800. Gain %?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "4 4/7%"
+      },
+      {
+        "letter": "b",
+        "text": "5 5/11%"
+      },
+      {
+        "letter": "c",
+        "text": "10%"
+      },
+      {
+        "letter": "d",
+        "text": "12%"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Real C.P. = 5500, gain 300 → 300/5500 × 100 = 5 5/11%. *(Repair cost is part of C.P.!)*",
+    "source": "Book Q10",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 4,
+    "question": "70 kg potatoes bought for ₹420, sold at ₹6.50/kg. Gain %?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "4⅙%"
+      },
+      {
+        "letter": "b",
+        "text": "6¼%"
+      },
+      {
+        "letter": "c",
+        "text": "8⅓%"
+      },
+      {
+        "letter": "d",
+        "text": "20%"
+      }
+    ],
+    "answer": "c",
+    "explanation": "S.P. 455, gain 35 → 35/420 = 8⅓%.",
+    "source": "Book Q11",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 5,
+    "question": "By selling an article for ₹100 a man gains ₹15. Gain %?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "15%"
+      },
+      {
+        "letter": "b",
+        "text": "12⅔%"
+      },
+      {
+        "letter": "c",
+        "text": "17 11/17%"
+      },
+      {
+        "letter": "d",
+        "text": "17¼%"
+      }
+    ],
+    "answer": "c",
+    "explanation": "C.P. = 85 → 15/85 × 100. *(Gain % is always on C.P., not S.P.)*",
+    "source": "Book Q15",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 6,
+    "question": "A bracelet is sold for ₹14500 at a 20% loss. C.P.?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "₹15225"
+      },
+      {
+        "letter": "b",
+        "text": "₹16800"
+      },
+      {
+        "letter": "c",
+        "text": "₹17400"
+      },
+      {
+        "letter": "d",
+        "text": "₹18125"
+      }
+    ],
+    "answer": "d",
+    "explanation": "14500/0.8.",
+    "source": "Book Q23",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 7,
+    "question": "Selling a bicycle for ₹2850 gives 14% gain. S.P. for 8% gain?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "₹2600"
+      },
+      {
+        "letter": "b",
+        "text": "₹2700"
+      },
+      {
+        "letter": "c",
+        "text": "₹2800"
+      },
+      {
+        "letter": "d",
+        "text": "₹3000"
+      }
+    ],
+    "answer": "b",
+    "explanation": "C.P. = 2500 → 2500 × 1.08.",
+    "source": "Book Q35",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 8,
+    "question": "A plot sold for ₹18700 gives 15% loss. Price for 15% gain?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "₹21000"
+      },
+      {
+        "letter": "b",
+        "text": "₹22500"
+      },
+      {
+        "letter": "c",
+        "text": "₹25300"
+      },
+      {
+        "letter": "d",
+        "text": "₹25800"
+      }
+    ],
+    "answer": "c",
+    "explanation": "C.P. 22000 × 1.15.",
+    "source": "Book Q36",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 9,
+    "question": "Raju bought an item for ₹8200, sold at 25% gain; with that money bought another and sold it at 20% loss. Overall?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Loss ₹120"
+      },
+      {
+        "letter": "b",
+        "text": "Gain ₹120"
+      },
+      {
+        "letter": "c",
+        "text": "Loss ₹140"
+      },
+      {
+        "letter": "d",
+        "text": "Neither"
+      }
+    ],
+    "answer": "d",
+    "explanation": "8200 × 1.25 × 0.8 = 8200.",
+    "source": "Book Q38",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 10,
+    "question": "One transistor sold for ₹840 at 20% gain, another for ₹960 at 4% loss. Total gain/loss %?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "5 15/17% loss"
+      },
+      {
+        "letter": "b",
+        "text": "5 15/17% gain"
+      },
+      {
+        "letter": "c",
+        "text": "6⅔% gain"
+      },
+      {
+        "letter": "d",
+        "text": "None"
+      }
+    ],
+    "answer": "b",
+    "explanation": "C.P.s 700 + 1000 = 1700, S.P. 1800 → 100/1700 = 5 15/17% gain.",
+    "source": "Book Q40",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 11,
+    "question": "Selling at a certain price gives 10% gain. Selling at twice that price, gain % =",
+    "options": [
+      {
+        "letter": "a",
+        "text": "20%"
+      },
+      {
+        "letter": "b",
+        "text": "60%"
+      },
+      {
+        "letter": "c",
+        "text": "100%"
+      },
+      {
+        "letter": "d",
+        "text": "120%"
+      }
+    ],
+    "answer": "d",
+    "explanation": "S.P. 110 → 220 on C.P. 100.",
+    "source": "Book Q44",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 12,
+    "question": "At what profit % must an article be sold so that selling at half that price gives 30% loss?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "25%"
+      },
+      {
+        "letter": "b",
+        "text": "36%"
+      },
+      {
+        "letter": "c",
+        "text": "40%"
+      },
+      {
+        "letter": "d",
+        "text": "42%"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Half price = 70 → full = 140.",
+    "source": "Book Q46",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 13,
+    "question": "Selling a pen for ₹15, a man loses 1/16 of its cost. C.P.?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "₹16"
+      },
+      {
+        "letter": "b",
+        "text": "₹18"
+      },
+      {
+        "letter": "c",
+        "text": "₹20"
+      },
+      {
+        "letter": "d",
+        "text": "₹21"
+      }
+    ],
+    "answer": "a",
+    "explanation": "(15/16)C = 15.",
+    "source": "Book Q48",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 14,
+    "question": "Ashok buys a car at 20% discount on the price and sells it at 20% above the price. Gain %?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "20%"
+      },
+      {
+        "letter": "b",
+        "text": "40%"
+      },
+      {
+        "letter": "c",
+        "text": "50%"
+      },
+      {
+        "letter": "d",
+        "text": "66⅔%"
+      }
+    ],
+    "answer": "c",
+    "explanation": "C.P. 80, S.P. 120 → 40/80.",
+    "source": "Book Q53",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 15,
+    "question": "Profit when sold for ₹1754 equals loss when sold for ₹1492. C.P.?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "₹1523"
+      },
+      {
+        "letter": "b",
+        "text": "₹1589"
+      },
+      {
+        "letter": "c",
+        "text": "₹1623"
+      },
+      {
+        "letter": "d",
+        "text": "₹1689"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Average of the two = (1754 + 1492)/2.",
+    "source": "Book Q54",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 16,
+    "question": "If C.P. of 15 books = S.P. of 20 books, loss % is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "16"
+      },
+      {
+        "letter": "b",
+        "text": "20"
+      },
+      {
+        "letter": "c",
+        "text": "24"
+      },
+      {
+        "letter": "d",
+        "text": "25"
+      }
+    ],
+    "answer": "d",
+    "explanation": "(20 − 15)/20 × 100 = 25%.",
+    "source": "Book Q60",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 17,
+    "question": "If C.P. of 10 articles = S.P. of 7 articles, gain/loss % is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "35% loss"
+      },
+      {
+        "letter": "b",
+        "text": "42 6/7% loss"
+      },
+      {
+        "letter": "c",
+        "text": "42 6/7% gain"
+      },
+      {
+        "letter": "d",
+        "text": "51% gain"
+      }
+    ],
+    "answer": "c",
+    "explanation": "(10 − 7)/7 × 100.",
+    "source": "Book Q61",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 18,
+    "question": "C.P. of 20 articles = S.P. of x articles; profit 25%. x = ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "15"
+      },
+      {
+        "letter": "b",
+        "text": "16"
+      },
+      {
+        "letter": "c",
+        "text": "18"
+      },
+      {
+        "letter": "d",
+        "text": "25"
+      }
+    ],
+    "answer": "b",
+    "explanation": "x = 20/1.25.",
+    "source": "Book Q65",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 19,
+    "question": "By selling 110 mangoes the C.P. of 120 mangoes is realised. Gain %?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "9 1/11%"
+      },
+      {
+        "letter": "b",
+        "text": "9 1/9%"
+      },
+      {
+        "letter": "c",
+        "text": "10 10/11%"
+      },
+      {
+        "letter": "d",
+        "text": "11 1/9%"
+      }
+    ],
+    "answer": "a",
+    "explanation": "10/110 × 100.",
+    "source": "Book Q64",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 20,
+    "question": "A dishonest dealer sells at C.P. but uses a 900 g weight for 1 kg. Gain %?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "10%"
+      },
+      {
+        "letter": "b",
+        "text": "11 1/9%"
+      },
+      {
+        "letter": "c",
+        "text": "9 1/11%"
+      },
+      {
+        "letter": "d",
+        "text": "12%"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Error/(True − Error) × 100 = 100/900 × 100.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 21,
+    "question": "Two articles each sold for ₹990; one at 10% gain, other at 10% loss. Overall?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "No gain no loss"
+      },
+      {
+        "letter": "b",
+        "text": "1% gain"
+      },
+      {
+        "letter": "c",
+        "text": "1% loss"
+      },
+      {
+        "letter": "d",
+        "text": "2% loss"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Same S.P., same ±x% → always loss of x²/100 % = 1%.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 22,
+    "question": "Successive discounts of 20% and 10% equal a single discount of",
+    "options": [
+      {
+        "letter": "a",
+        "text": "30%"
+      },
+      {
+        "letter": "b",
+        "text": "28%"
+      },
+      {
+        "letter": "c",
+        "text": "25%"
+      },
+      {
+        "letter": "d",
+        "text": "72%"
+      }
+    ],
+    "answer": "b",
+    "explanation": "20 + 10 − 200/100 = 28%.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 23,
+    "question": "A shopkeeper marks goods 25% above C.P. and allows 10% discount. Gain %?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "15%"
+      },
+      {
+        "letter": "b",
+        "text": "12.5%"
+      },
+      {
+        "letter": "c",
+        "text": "12%"
+      },
+      {
+        "letter": "d",
+        "text": "10%"
+      }
+    ],
+    "answer": "b",
+    "explanation": "125 × 0.9 = 112.5.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  }
+]

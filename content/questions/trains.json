@@ -1,0 +1,500 @@
+[
+  {
+    "number": 1,
+    "question": "108 km/h in m/s:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "10.8"
+      },
+      {
+        "letter": "b",
+        "text": "18"
+      },
+      {
+        "letter": "c",
+        "text": "30"
+      },
+      {
+        "letter": "d",
+        "text": "38.8"
+      }
+    ],
+    "answer": "c",
+    "explanation": "",
+    "source": "Book Q1",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 2,
+    "question": "14 m/s in km/h:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "28"
+      },
+      {
+        "letter": "b",
+        "text": "46.6"
+      },
+      {
+        "letter": "c",
+        "text": "50.4"
+      },
+      {
+        "letter": "d",
+        "text": "70"
+      }
+    ],
+    "answer": "c",
+    "explanation": "",
+    "source": "Book Q2",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 3,
+    "question": "A 100 m train at 144 km/h crosses a pole in",
+    "options": [
+      {
+        "letter": "a",
+        "text": "2.5 s"
+      },
+      {
+        "letter": "b",
+        "text": "4.25 s"
+      },
+      {
+        "letter": "c",
+        "text": "5 s"
+      },
+      {
+        "letter": "d",
+        "text": "12.5 s"
+      }
+    ],
+    "answer": "a",
+    "explanation": "100/40.",
+    "source": "Book Q4",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 4,
+    "question": "A 280 m train at 63 km/h passes a tree in",
+    "options": [
+      {
+        "letter": "a",
+        "text": "15 s"
+      },
+      {
+        "letter": "b",
+        "text": "16 s"
+      },
+      {
+        "letter": "c",
+        "text": "18 s"
+      },
+      {
+        "letter": "d",
+        "text": "20 s"
+      }
+    ],
+    "answer": "b",
+    "explanation": "63 km/h = 17.5 m/s.",
+    "source": "Book Q5",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 5,
+    "question": "A 100 m train at 60 km/h crosses a 140 m bridge in",
+    "options": [
+      {
+        "letter": "a",
+        "text": "3.6 s"
+      },
+      {
+        "letter": "b",
+        "text": "7.2 s"
+      },
+      {
+        "letter": "c",
+        "text": "14.4 s"
+      },
+      {
+        "letter": "d",
+        "text": "21.6 s"
+      }
+    ],
+    "answer": "c",
+    "explanation": "240 ÷ (50/3).",
+    "source": "Book Q6",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 6,
+    "question": "A 120 m train at 90 km/h crosses a 230 m platform in",
+    "options": [
+      {
+        "letter": "a",
+        "text": "4.8 s"
+      },
+      {
+        "letter": "b",
+        "text": "7 s"
+      },
+      {
+        "letter": "c",
+        "text": "9.2 s"
+      },
+      {
+        "letter": "d",
+        "text": "14 s"
+      }
+    ],
+    "answer": "d",
+    "explanation": "350/25.",
+    "source": "Book Q7",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 7,
+    "question": "A train at 60 km/h crosses a pole in 9 s. Its length?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "120 m"
+      },
+      {
+        "letter": "b",
+        "text": "180 m"
+      },
+      {
+        "letter": "c",
+        "text": "324 m"
+      },
+      {
+        "letter": "d",
+        "text": "Can't say"
+      },
+      {
+        "letter": "e",
+        "text": "None"
+      }
+    ],
+    "answer": "e",
+    "explanation": "(50/3) × 9 = **150 m**.",
+    "source": "Book Q9",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 8,
+    "question": "A 132 m train passes a pole in 6 s. Speed?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "70"
+      },
+      {
+        "letter": "b",
+        "text": "72"
+      },
+      {
+        "letter": "c",
+        "text": "79.2"
+      },
+      {
+        "letter": "d",
+        "text": "80 km/h"
+      }
+    ],
+    "answer": "c",
+    "explanation": "22 m/s.",
+    "source": "Book Q10",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 9,
+    "question": "A 240 m train passes a pole in 24 s. Time to pass a 650 m platform?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "65 s"
+      },
+      {
+        "letter": "b",
+        "text": "89 s"
+      },
+      {
+        "letter": "c",
+        "text": "100 s"
+      },
+      {
+        "letter": "d",
+        "text": "150 s"
+      }
+    ],
+    "answer": "b",
+    "explanation": "10 m/s; 890/10.",
+    "source": "Book Q12",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 10,
+    "question": "A 50 m train at 30 km/h takes 36 s to cross a bridge. Bridge length?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "200"
+      },
+      {
+        "letter": "b",
+        "text": "250"
+      },
+      {
+        "letter": "c",
+        "text": "300"
+      },
+      {
+        "letter": "d",
+        "text": "350 m"
+      }
+    ],
+    "answer": "b",
+    "explanation": "(25/3) × 36 = 300 → 300 − 50.",
+    "source": "Book Q13",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 11,
+    "question": "A 130 m train at 45 km/h crosses a bridge in 30 s. Bridge length?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "200"
+      },
+      {
+        "letter": "b",
+        "text": "225"
+      },
+      {
+        "letter": "c",
+        "text": "245"
+      },
+      {
+        "letter": "d",
+        "text": "250 m"
+      }
+    ],
+    "answer": "c",
+    "explanation": "12.5 × 30 = 375 − 130.",
+    "source": "Book Q15",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 12,
+    "question": "A train at 60 km/h crosses a 200 m platform in 27 s. Train length?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "200"
+      },
+      {
+        "letter": "b",
+        "text": "240"
+      },
+      {
+        "letter": "c",
+        "text": "250"
+      },
+      {
+        "letter": "d",
+        "text": "450 m"
+      }
+    ],
+    "answer": "c",
+    "explanation": "450 − 200.",
+    "source": "Book Q17",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 13,
+    "question": "A train passes a platform in 36 s and a man on it in 20 s at 54 km/h. Platform length?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "225"
+      },
+      {
+        "letter": "b",
+        "text": "240"
+      },
+      {
+        "letter": "c",
+        "text": "230"
+      },
+      {
+        "letter": "d",
+        "text": "235 m"
+      }
+    ],
+    "answer": "b",
+    "explanation": "15 m/s: train = 300, train + platform = 540.",
+    "source": "Book Q21",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 14,
+    "question": "Train A (240 m) crosses a pole in 20 s and a stationary train B in 50 s. Length of B?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "260"
+      },
+      {
+        "letter": "b",
+        "text": "300"
+      },
+      {
+        "letter": "c",
+        "text": "360"
+      },
+      {
+        "letter": "d",
+        "text": "Can't say"
+      }
+    ],
+    "answer": "c",
+    "explanation": "12 m/s × 50 = 600 − 240.",
+    "source": "Book Q22",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 15,
+    "question": "A train passes a pole in 20 s and a 100 m platform in 30 s. Train length?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "100"
+      },
+      {
+        "letter": "b",
+        "text": "150"
+      },
+      {
+        "letter": "c",
+        "text": "180"
+      },
+      {
+        "letter": "d",
+        "text": "200 m"
+      }
+    ],
+    "answer": "d",
+    "explanation": "10 extra seconds for 100 m → 10 m/s → 200 m.",
+    "source": "Book Q23",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 16,
+    "question": "A 150 m train crosses a 500 m bridge in 30 s. Time to cross a 370 m platform?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "18 s"
+      },
+      {
+        "letter": "b",
+        "text": "24 s"
+      },
+      {
+        "letter": "c",
+        "text": "30 s"
+      },
+      {
+        "letter": "d",
+        "text": "36 s"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Speed 650/30; distance 520 → 520 × 30/650.",
+    "source": "Book Q25",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 17,
+    "question": "Trains 140 m and 160 m run at 60 and 40 km/h in opposite directions. Time to cross each other?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "9 s"
+      },
+      {
+        "letter": "b",
+        "text": "9.6 s"
+      },
+      {
+        "letter": "c",
+        "text": "10 s"
+      },
+      {
+        "letter": "d",
+        "text": "10.8 s"
+      }
+    ],
+    "answer": "d",
+    "explanation": "Relative 100 km/h = 250/9 m/s; 300 × 9/250.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 18,
+    "question": "Two equal trains at 46 and 36 km/h on parallel tracks in the same direction. The faster passes the slower in 36 s. Length of each?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "50 m"
+      },
+      {
+        "letter": "b",
+        "text": "72 m"
+      },
+      {
+        "letter": "c",
+        "text": "80 m"
+      },
+      {
+        "letter": "d",
+        "text": "82 m"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Relative 10 km/h = 25/9 m/s × 36 = 100 = 2L.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 19,
+    "question": "A 125 m train passes a man running at 5 km/h in the same direction in 10 s. Train's speed?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "45"
+      },
+      {
+        "letter": "b",
+        "text": "50"
+      },
+      {
+        "letter": "c",
+        "text": "54"
+      },
+      {
+        "letter": "d",
+        "text": "55 km/h"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Relative 12.5 m/s = 45 km/h → 45 + 5.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  }
+]

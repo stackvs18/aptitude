@@ -1,0 +1,288 @@
+[
+  {
+    "number": 1,
+    "question": "Pipes A and B fill a tank in 20 and 30 min. Together?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "12"
+      },
+      {
+        "letter": "b",
+        "text": "15"
+      },
+      {
+        "letter": "c",
+        "text": "25"
+      },
+      {
+        "letter": "d",
+        "text": "50"
+      }
+    ],
+    "answer": "a",
+    "explanation": "1/20 + 1/30 = 1/12.",
+    "source": "Book Q4",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 2,
+    "question": "A tap fills a tank in 8 h; a leak empties it in 12 h. Time to fill with the leak?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "16 h"
+      },
+      {
+        "letter": "b",
+        "text": "18 h"
+      },
+      {
+        "letter": "c",
+        "text": "24 h"
+      },
+      {
+        "letter": "d",
+        "text": "None"
+      }
+    ],
+    "answer": "c",
+    "explanation": "1/8 − 1/12 = 1/24.",
+    "source": "Book Q6",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 3,
+    "question": "A tap fills a tank in 48 min, another empties it in 2 h. Both opened at 11:40 AM. Tank full at",
+    "options": [
+      {
+        "letter": "a",
+        "text": "12:40 PM"
+      },
+      {
+        "letter": "b",
+        "text": "1:00 PM"
+      },
+      {
+        "letter": "c",
+        "text": "1:20 PM"
+      },
+      {
+        "letter": "d",
+        "text": "1:30 PM"
+      }
+    ],
+    "answer": "b",
+    "explanation": "1/48 − 1/120 = 1/80 → 80 min after 11:40.",
+    "source": "Book Q7",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 4,
+    "question": "A and B fill in 20 h and 30 h; C empties in 40 h. All open?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "10 3/7 h"
+      },
+      {
+        "letter": "b",
+        "text": "12 4/5 h"
+      },
+      {
+        "letter": "c",
+        "text": "17 1/7 h"
+      },
+      {
+        "letter": "d",
+        "text": "19 1/4 h"
+      }
+    ],
+    "answer": "c",
+    "explanation": "(6 + 4 − 3)/120 = 7/120 → 120/7.",
+    "source": "Book Q9",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 5,
+    "question": "A tap fills a tank in 6 h. After half is filled, 3 more similar taps are opened. Total time?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "3 h 15 m"
+      },
+      {
+        "letter": "b",
+        "text": "3 h 45 m"
+      },
+      {
+        "letter": "c",
+        "text": "4 h"
+      },
+      {
+        "letter": "d",
+        "text": "4 h 15 m"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Half in 3 h; other half with 4 taps: 3/4 h = 45 min.",
+    "source": "Book Q12",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 6,
+    "question": "One pipe fills a cistern in 8 h, another empties it in 5 h. Cistern is ¾ full; both opened. Time to empty?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "3⅓ h"
+      },
+      {
+        "letter": "b",
+        "text": "6 h"
+      },
+      {
+        "letter": "c",
+        "text": "10 h"
+      },
+      {
+        "letter": "d",
+        "text": "13⅓ h"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Net emptying 1/5 − 1/8 = 3/40 per h → (3/4)/(3/40) = 10.",
+    "source": "Book Q13",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 7,
+    "question": "A and B fill a cistern in 60 and 75 min. With a third (outlet) pipe also open it fills in 50 min. Outlet alone empties it in",
+    "options": [
+      {
+        "letter": "a",
+        "text": "90"
+      },
+      {
+        "letter": "b",
+        "text": "100"
+      },
+      {
+        "letter": "c",
+        "text": "110"
+      },
+      {
+        "letter": "d",
+        "text": "120 min"
+      }
+    ],
+    "answer": "b",
+    "explanation": "1/60 + 1/75 − 1/50 = (5 + 4 − 6)/300 = 1/100.",
+    "source": "Book Q15",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 8,
+    "question": "8 pipes on a tank: each filler fills in 12 h, each waste pipe empties in 36 h. All open → filled in 3 h. Number of waste pipes?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "2"
+      },
+      {
+        "letter": "b",
+        "text": "3"
+      },
+      {
+        "letter": "c",
+        "text": "4"
+      },
+      {
+        "letter": "d",
+        "text": "5"
+      }
+    ],
+    "answer": "b",
+    "explanation": "x/12 − (8 − x)/36 = 1/3 → 4x − 8 = 12 → x = 5 fillers → 3 waste.",
+    "source": "Book Q16",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 9,
+    "question": "A pump fills a tank in 2 h; due to a leak it takes 2⅓ h. Leak alone empties it in",
+    "options": [
+      {
+        "letter": "a",
+        "text": "4⅓ h"
+      },
+      {
+        "letter": "b",
+        "text": "7 h"
+      },
+      {
+        "letter": "c",
+        "text": "8 h"
+      },
+      {
+        "letter": "d",
+        "text": "14 h"
+      }
+    ],
+    "answer": "d",
+    "explanation": "1/2 − 3/7 = 1/14.",
+    "source": "Book Q17",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 10,
+    "question": "Taps A, B fill a tank in 5 h and 20 h. With both open, a leak makes it take 30 min more. Leak alone empties a full tank in",
+    "options": [
+      {
+        "letter": "a",
+        "text": "4½ h"
+      },
+      {
+        "letter": "b",
+        "text": "9 h"
+      },
+      {
+        "letter": "c",
+        "text": "18 h"
+      },
+      {
+        "letter": "d",
+        "text": "36 h"
+      }
+    ],
+    "answer": "d",
+    "explanation": "Together 4 h; with leak 4.5 h → 1/4 − 2/9 = 1/36.",
+    "source": "Book Q18",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 11,
+    "question": "Two pipes fill a tank in 10 h and 12 h; a third empties it in 20 h. All three opened together. Time to fill?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "7 h 15 m"
+      },
+      {
+        "letter": "b",
+        "text": "7 h 30 m"
+      },
+      {
+        "letter": "c",
+        "text": "8 h"
+      },
+      {
+        "letter": "d",
+        "text": "8 h 30 m"
+      }
+    ],
+    "answer": "b",
+    "explanation": "1/10 + 1/12 − 1/20 = (6 + 5 − 3)/60 = 8/60 → 7.5 h.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  }
+]

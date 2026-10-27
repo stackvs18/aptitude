@@ -1,0 +1,626 @@
+[
+  {
+    "number": 1,
+    "question": "The ratio 5 : 4 expressed as a percent is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "12.5%"
+      },
+      {
+        "letter": "b",
+        "text": "40%"
+      },
+      {
+        "letter": "c",
+        "text": "80%"
+      },
+      {
+        "letter": "d",
+        "text": "125%"
+      }
+    ],
+    "answer": "d",
+    "explanation": "5/4 × 100 = 125%.",
+    "source": "Book Q2",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 2,
+    "question": "10% of 5 and 5% of 10 add up to",
+    "options": [
+      {
+        "letter": "a",
+        "text": "0.10"
+      },
+      {
+        "letter": "b",
+        "text": "0.25"
+      },
+      {
+        "letter": "c",
+        "text": "1.0"
+      },
+      {
+        "letter": "d",
+        "text": "2.5"
+      }
+    ],
+    "answer": "c",
+    "explanation": "0.5 + 0.5.",
+    "source": "Book Q12",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 3,
+    "question": "What percent of 88 is 33?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "34.5%"
+      },
+      {
+        "letter": "b",
+        "text": "35.5%"
+      },
+      {
+        "letter": "c",
+        "text": "36.5%"
+      },
+      {
+        "letter": "d",
+        "text": "37.5%"
+      }
+    ],
+    "answer": "d",
+    "explanation": "33/88 = 3/8 = 37.5%.",
+    "source": "Book Q33",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 4,
+    "question": "What percent is 1 minute 12 seconds of an hour?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "2%"
+      },
+      {
+        "letter": "b",
+        "text": "10%"
+      },
+      {
+        "letter": "c",
+        "text": "12%"
+      },
+      {
+        "letter": "d",
+        "text": "20%"
+      }
+    ],
+    "answer": "a",
+    "explanation": "72/3600 × 100 = 2%.",
+    "source": "Book Q35",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 5,
+    "question": "Enrolment increased from 560 to 581. Percent increase?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "2.75%"
+      },
+      {
+        "letter": "b",
+        "text": "3.25%"
+      },
+      {
+        "letter": "c",
+        "text": "3.72%"
+      },
+      {
+        "letter": "d",
+        "text": "3.75%"
+      }
+    ],
+    "answer": "d",
+    "explanation": "21/560 × 100 = 3.75%.",
+    "source": "Book Q36",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 6,
+    "question": "What percent of a day is 3 hours?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "12½%"
+      },
+      {
+        "letter": "b",
+        "text": "16⅔%"
+      },
+      {
+        "letter": "c",
+        "text": "18⅔%"
+      },
+      {
+        "letter": "d",
+        "text": "22½%"
+      }
+    ],
+    "answer": "a",
+    "explanation": "3/24 = 1/8.",
+    "source": "Book Q39",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 7,
+    "question": "A bakery had 40 dozen rolls. Half were sold by noon and 60% of the rest by closing. Dozens left?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "6"
+      },
+      {
+        "letter": "b",
+        "text": "8"
+      },
+      {
+        "letter": "c",
+        "text": "10"
+      },
+      {
+        "letter": "d",
+        "text": "12"
+      }
+    ],
+    "answer": "b",
+    "explanation": "20 left at noon; 40% of 20 = 8.",
+    "source": "Book Q41",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 8,
+    "question": "30% of 450 apples are rotten. How many are good?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "125"
+      },
+      {
+        "letter": "b",
+        "text": "180"
+      },
+      {
+        "letter": "c",
+        "text": "240"
+      },
+      {
+        "letter": "d",
+        "text": "315"
+      }
+    ],
+    "answer": "d",
+    "explanation": "70% of 450.",
+    "source": "Book Q43",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 9,
+    "question": "3 h 40 min is wrongly estimated as 3 h 45.5 min. Error percentage?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "2.5"
+      },
+      {
+        "letter": "b",
+        "text": "5"
+      },
+      {
+        "letter": "c",
+        "text": "5.2"
+      },
+      {
+        "letter": "d",
+        "text": "5.5"
+      }
+    ],
+    "answer": "a",
+    "explanation": "5.5/220 × 100 = 2.5%.",
+    "source": "Book Q45",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 10,
+    "question": "In two years 100 and 75 students appeared; 75% and 60% passed. Average pass rate?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "68 4/7%"
+      },
+      {
+        "letter": "b",
+        "text": "78%"
+      },
+      {
+        "letter": "c",
+        "text": "80%"
+      },
+      {
+        "letter": "d",
+        "text": "80½%"
+      }
+    ],
+    "answer": "a",
+    "explanation": "(75 + 45)/175 = 120/175 = 68 4/7%.",
+    "source": "Book Q47",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 11,
+    "question": "65% of examinees passed and 420 failed. Total examinees?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "1000"
+      },
+      {
+        "letter": "b",
+        "text": "1200"
+      },
+      {
+        "letter": "c",
+        "text": "1500"
+      },
+      {
+        "letter": "d",
+        "text": "1625"
+      }
+    ],
+    "answer": "b",
+    "explanation": "35% = 420 → 1200.",
+    "source": "Book Q97",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 12,
+    "question": "x is 10% less than y, and y is 10% more than 125. x = ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "123.75"
+      },
+      {
+        "letter": "b",
+        "text": "140.55"
+      },
+      {
+        "letter": "c",
+        "text": "143"
+      },
+      {
+        "letter": "d",
+        "text": "150"
+      }
+    ],
+    "answer": "a",
+    "explanation": "y = 137.5; x = 0.9 × 137.5.",
+    "source": "Book Q112",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 13,
+    "question": "Population rose from 1,75,000 to 2,62,500 in a decade. Average % increase per year?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "4.37%"
+      },
+      {
+        "letter": "b",
+        "text": "5%"
+      },
+      {
+        "letter": "c",
+        "text": "6%"
+      },
+      {
+        "letter": "d",
+        "text": "8.75%"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Increase = 50% over 10 years → 5% per year.",
+    "source": "Book Q124",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 14,
+    "question": "X and Y are paid ₹550 per week in total. X is paid 20% more than Y. Y's pay?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "₹200"
+      },
+      {
+        "letter": "b",
+        "text": "₹250"
+      },
+      {
+        "letter": "c",
+        "text": "₹300"
+      },
+      {
+        "letter": "d",
+        "text": "None"
+      }
+    ],
+    "answer": "b",
+    "explanation": "2.2Y = 550.",
+    "source": "Book Q137",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 15,
+    "question": "A number reduced by 40% becomes two-thirds of another number. Ratio of first to second?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "8:9"
+      },
+      {
+        "letter": "b",
+        "text": "9:8"
+      },
+      {
+        "letter": "c",
+        "text": "10:9"
+      },
+      {
+        "letter": "d",
+        "text": "9:10"
+      }
+    ],
+    "answer": "c",
+    "explanation": "0.6x = (2/3)y → x/y = 10/9.",
+    "source": "Book Q139",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 16,
+    "question": "Pass mark is 36%. A student gets 198 and fails by 36 marks. Maximum marks?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "480"
+      },
+      {
+        "letter": "b",
+        "text": "550"
+      },
+      {
+        "letter": "c",
+        "text": "650"
+      },
+      {
+        "letter": "d",
+        "text": "Can't say"
+      }
+    ],
+    "answer": "c",
+    "explanation": "36% = 234 → 650.",
+    "source": "Book Q147",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 17,
+    "question": "Pass mark 33%. A candidate gets 25% and fails by 40 marks. Maximum marks?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "300"
+      },
+      {
+        "letter": "b",
+        "text": "400"
+      },
+      {
+        "letter": "c",
+        "text": "500"
+      },
+      {
+        "letter": "d",
+        "text": "600"
+      }
+    ],
+    "answer": "c",
+    "explanation": "8% = 40 → 500.",
+    "source": "Book Q150",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 18,
+    "question": "Two candidates in an election; one got 62% of votes and won by 432 votes. Total votes polled?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "1500"
+      },
+      {
+        "letter": "b",
+        "text": "1600"
+      },
+      {
+        "letter": "c",
+        "text": "1800"
+      },
+      {
+        "letter": "d",
+        "text": "Can't say"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Margin = 62 − 38 = 24% = 432 → 1800.",
+    "source": "Book Q152",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 19,
+    "question": "One candidate got 55% of valid votes; 15% of 15200 votes were invalid. Valid votes for the other candidate?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "5814"
+      },
+      {
+        "letter": "b",
+        "text": "6840"
+      },
+      {
+        "letter": "c",
+        "text": "7106"
+      },
+      {
+        "letter": "d",
+        "text": "8360"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Valid = 12920; 45% of it = 5814.",
+    "source": "Book Q153",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 20,
+    "question": "1100 boys and 700 girls take a test; 42% of boys and 30% of girls pass. Percentage of total who failed?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "58%"
+      },
+      {
+        "letter": "b",
+        "text": "62⅔%"
+      },
+      {
+        "letter": "c",
+        "text": "64%"
+      },
+      {
+        "letter": "d",
+        "text": "78%"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Pass = 462 + 210 = 672; fail = 1128/1800 = 62⅔%.",
+    "source": "Book Q162",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 21,
+    "question": "If the price of sugar rises by 25%, by how much % must a family cut consumption to keep expenditure the same?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "15%"
+      },
+      {
+        "letter": "b",
+        "text": "20%"
+      },
+      {
+        "letter": "c",
+        "text": "25%"
+      },
+      {
+        "letter": "d",
+        "text": "30%"
+      }
+    ],
+    "answer": "b",
+    "explanation": "r/(100 + r) × 100 = 25/125 × 100 = 20%.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 22,
+    "question": "A's salary is 25% more than B's. By what % is B's salary less than A's?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "15%"
+      },
+      {
+        "letter": "b",
+        "text": "20%"
+      },
+      {
+        "letter": "c",
+        "text": "25%"
+      },
+      {
+        "letter": "d",
+        "text": "30%"
+      }
+    ],
+    "answer": "b",
+    "explanation": "25/125 × 100 = 20%.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 23,
+    "question": "A number is increased by 10% and then decreased by 10%. Net change?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "No change"
+      },
+      {
+        "letter": "b",
+        "text": "1% increase"
+      },
+      {
+        "letter": "c",
+        "text": "1% decrease"
+      },
+      {
+        "letter": "d",
+        "text": "2% decrease"
+      }
+    ],
+    "answer": "c",
+    "explanation": "x + y + xy/100 = 10 − 10 − 1 = −1%.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 24,
+    "question": "Population of a town is 8000; it increases 10% per year. Population after 2 years?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "9600"
+      },
+      {
+        "letter": "b",
+        "text": "9680"
+      },
+      {
+        "letter": "c",
+        "text": "9800"
+      },
+      {
+        "letter": "d",
+        "text": "10000"
+      }
+    ],
+    "answer": "b",
+    "explanation": "8000 × 1.1 × 1.1 = 9680.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  }
+]

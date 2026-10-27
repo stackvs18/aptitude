@@ -1,0 +1,756 @@
+[
+  {
+    "number": 1,
+    "question": "What is the place value of 5 in 3254710?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "5"
+      },
+      {
+        "letter": "b",
+        "text": "10000"
+      },
+      {
+        "letter": "c",
+        "text": "50000"
+      },
+      {
+        "letter": "d",
+        "text": "54710"
+      }
+    ],
+    "answer": "c",
+    "explanation": "5 sits in the ten-thousands place → 5 × 10000 = 50000.",
+    "source": "Book Q1",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 2,
+    "question": "The sum of the place values of 3 in the number 503535 is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "6"
+      },
+      {
+        "letter": "b",
+        "text": "60"
+      },
+      {
+        "letter": "c",
+        "text": "3030"
+      },
+      {
+        "letter": "d",
+        "text": "3300"
+      }
+    ],
+    "answer": "c",
+    "explanation": "3s are at thousands and tens: 3000 + 30 = 3030.",
+    "source": "Book Q3",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 3,
+    "question": "The difference between the local (place) value and face value of 7 in 32675149 is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "5149"
+      },
+      {
+        "letter": "b",
+        "text": "64851"
+      },
+      {
+        "letter": "c",
+        "text": "69993"
+      },
+      {
+        "letter": "d",
+        "text": "75142"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Place value = 70000, face value = 7 → 69993.",
+    "source": "Book Q5",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 4,
+    "question": "The sum of the greatest and the smallest number of five digits is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "11,110"
+      },
+      {
+        "letter": "b",
+        "text": "10,999"
+      },
+      {
+        "letter": "c",
+        "text": "1,09,999"
+      },
+      {
+        "letter": "d",
+        "text": "1,11,110"
+      }
+    ],
+    "answer": "c",
+    "explanation": "99999 + 10000 = 109999.",
+    "source": "Book Q6",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 5,
+    "question": "The minimum four-digit number formed using the digits 2, 4, 0, 7 (each once) is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "2047"
+      },
+      {
+        "letter": "b",
+        "text": "2247"
+      },
+      {
+        "letter": "c",
+        "text": "2407"
+      },
+      {
+        "letter": "d",
+        "text": "2470"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Smallest non-zero digit first (2), then 0, 4, 7.",
+    "source": "Book Q9",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 6,
+    "question": "In how many ways can 9 be written as the sum of two *different* positive integers?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "3"
+      },
+      {
+        "letter": "b",
+        "text": "4"
+      },
+      {
+        "letter": "c",
+        "text": "5"
+      },
+      {
+        "letter": "d",
+        "text": "6"
+      }
+    ],
+    "answer": "b",
+    "explanation": "8+1, 7+2, 6+3, 5+4.",
+    "source": "Book Q16",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 7,
+    "question": "If the even numbers from 1 to 24 are arranged in descending order, which number is 8th from the bottom?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "10"
+      },
+      {
+        "letter": "b",
+        "text": "12"
+      },
+      {
+        "letter": "c",
+        "text": "16"
+      },
+      {
+        "letter": "d",
+        "text": "18"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Bottom is the smallest: 2, 4, 6, 8, 10, 12, 14, **16**.",
+    "source": "Book Q22",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 8,
+    "question": "2 − 2 + 2 − 2 + … (101 terms) = ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "−2"
+      },
+      {
+        "letter": "b",
+        "text": "0"
+      },
+      {
+        "letter": "c",
+        "text": "2"
+      },
+      {
+        "letter": "d",
+        "text": "None"
+      }
+    ],
+    "answer": "c",
+    "explanation": "100 terms cancel in pairs; 101st term = +2.",
+    "source": "Book Q23",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 9,
+    "question": "The 98th term of the series 1, 2, 3, 4, 1, 2, 3, 4, 1, … is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "1"
+      },
+      {
+        "letter": "b",
+        "text": "2"
+      },
+      {
+        "letter": "c",
+        "text": "3"
+      },
+      {
+        "letter": "d",
+        "text": "4"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Cycle length 4; 98 ÷ 4 leaves remainder 2 → 2nd term = 2.",
+    "source": "Book Q24",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 10,
+    "question": "If n and p are both odd, which of these is even?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "n + p"
+      },
+      {
+        "letter": "b",
+        "text": "n + p + 1"
+      },
+      {
+        "letter": "c",
+        "text": "np + 2"
+      },
+      {
+        "letter": "d",
+        "text": "np"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Odd + odd = even.",
+    "source": "Book Q27",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 11,
+    "question": "If n = 1 + x, where x is the product of four consecutive positive integers, then which is/are true? I. n is odd II. n is prime III. n is a perfect square",
+    "options": [
+      {
+        "letter": "a",
+        "text": "I only"
+      },
+      {
+        "letter": "b",
+        "text": "I and II"
+      },
+      {
+        "letter": "c",
+        "text": "I and III"
+      },
+      {
+        "letter": "d",
+        "text": "None"
+      }
+    ],
+    "answer": "c",
+    "explanation": "e.g. 1·2·3·4 + 1 = 25 = 5² (odd, square, not prime).",
+    "source": "Book Q38",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 12,
+    "question": "The prime numbers that divide 143 leaving remainder 3 in each case are",
+    "options": [
+      {
+        "letter": "a",
+        "text": "2 and 11"
+      },
+      {
+        "letter": "b",
+        "text": "11 and 13"
+      },
+      {
+        "letter": "c",
+        "text": "3 and 7"
+      },
+      {
+        "letter": "d",
+        "text": "5 and 7"
+      }
+    ],
+    "answer": "d",
+    "explanation": "143 − 3 = 140 = 2² × 5 × 7. Divisors bigger than remainder 3: 5 and 7.",
+    "source": "Book Q61",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 13,
+    "question": "The remainder when any prime number greater than 6 is divided by 6 must be",
+    "options": [
+      {
+        "letter": "a",
+        "text": "1 or 2"
+      },
+      {
+        "letter": "b",
+        "text": "1 or 3"
+      },
+      {
+        "letter": "c",
+        "text": "1 or 5"
+      },
+      {
+        "letter": "d",
+        "text": "3 or 5"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Every prime > 3 is of the form 6k ± 1.",
+    "source": "Book Q65",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 14,
+    "question": "1! + 2! + 3! + … + 100! when divided by 5 leaves remainder",
+    "options": [
+      {
+        "letter": "a",
+        "text": "0"
+      },
+      {
+        "letter": "b",
+        "text": "1"
+      },
+      {
+        "letter": "c",
+        "text": "2"
+      },
+      {
+        "letter": "d",
+        "text": "3"
+      }
+    ],
+    "answer": "d",
+    "explanation": "From 5! onward every term is divisible by 5. 1 + 2 + 6 + 24 = 33 → remainder 3.",
+    "source": "Book Q162",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 15,
+    "question": "The numbers 1, 3, 5, …, 25 are multiplied together. Number of zeros at the right end of the product:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "0"
+      },
+      {
+        "letter": "b",
+        "text": "1"
+      },
+      {
+        "letter": "c",
+        "text": "2"
+      },
+      {
+        "letter": "d",
+        "text": "3"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Product of odd numbers is odd → no factor 2 → no trailing zero.",
+    "source": "Book Q180",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 16,
+    "question": "Number of zeros at the end of 60! is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "12"
+      },
+      {
+        "letter": "b",
+        "text": "14"
+      },
+      {
+        "letter": "c",
+        "text": "16"
+      },
+      {
+        "letter": "d",
+        "text": "18"
+      }
+    ],
+    "answer": "b",
+    "explanation": "⌊60/5⌋ + ⌊60/25⌋ = 12 + 2 = 14.",
+    "source": "Book Q184",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 17,
+    "question": "The numbers 2, 4, 6, …, 100 are multiplied together. Zeros at the end of the product:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "10"
+      },
+      {
+        "letter": "b",
+        "text": "11"
+      },
+      {
+        "letter": "c",
+        "text": "12"
+      },
+      {
+        "letter": "d",
+        "text": "13"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Product = 2⁵⁰ × 50!; 5s in 50! = 10 + 2 = 12.",
+    "source": "Book Q186",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 18,
+    "question": "Number of zeros at the end of 5 × 10 × 15 × … × 50 is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "5"
+      },
+      {
+        "letter": "b",
+        "text": "7"
+      },
+      {
+        "letter": "c",
+        "text": "8"
+      },
+      {
+        "letter": "d",
+        "text": "10"
+      }
+    ],
+    "answer": "c",
+    "explanation": "= 5¹⁰ × 10!. Count of 5s = 10 + 2 = 12; count of 2s (all from 10!) = 5 + 2 + 1 = 8. Zeros = min(12, 8) = 8.",
+    "source": "Book Q183",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 19,
+    "question": "The unit's digit of 13²⁰⁰³ is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "1"
+      },
+      {
+        "letter": "b",
+        "text": "3"
+      },
+      {
+        "letter": "c",
+        "text": "7"
+      },
+      {
+        "letter": "d",
+        "text": "9"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Unit digit of 3ⁿ cycles 3, 9, 7, 1. 2003 ÷ 4 → remainder 3 → 7.",
+    "source": "Book Q189",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 20,
+    "question": "The unit's digit in 274 × 318 × 577 × 313 is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "2"
+      },
+      {
+        "letter": "b",
+        "text": "3"
+      },
+      {
+        "letter": "c",
+        "text": "4"
+      },
+      {
+        "letter": "d",
+        "text": "5"
+      }
+    ],
+    "answer": "a",
+    "explanation": "4 × 8 × 7 × 3 → 32→2, 2×7=14→4, 4×3=12→**2**.",
+    "source": "Book Q193",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 21,
+    "question": "Unit's digit in (784)¹²⁶ + (784)¹²⁷ is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "0"
+      },
+      {
+        "letter": "b",
+        "text": "4"
+      },
+      {
+        "letter": "c",
+        "text": "6"
+      },
+      {
+        "letter": "d",
+        "text": "8"
+      }
+    ],
+    "answer": "a",
+    "explanation": "4^even ends in 6, 4^odd ends in 4 → 6 + 4 = 10 → 0.",
+    "source": "Book Q196",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 22,
+    "question": "Least value of n so that 6135n2 is divisible by 9:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "1"
+      },
+      {
+        "letter": "b",
+        "text": "2"
+      },
+      {
+        "letter": "c",
+        "text": "3"
+      },
+      {
+        "letter": "d",
+        "text": "4"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Digit sum = 17 + n must be a multiple of 9 → n = 1.",
+    "source": "Book Q205",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 23,
+    "question": "Which of the following numbers is NOT divisible by 18?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "34056"
+      },
+      {
+        "letter": "b",
+        "text": "50436"
+      },
+      {
+        "letter": "c",
+        "text": "54036"
+      },
+      {
+        "letter": "d",
+        "text": "65043"
+      }
+    ],
+    "answer": "d",
+    "explanation": "18 = 2 × 9; 65043 is odd.",
+    "source": "Book Q208",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 24,
+    "question": "Which one of the following is divisible by 11?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "4823718"
+      },
+      {
+        "letter": "b",
+        "text": "4832718"
+      },
+      {
+        "letter": "c",
+        "text": "8423718"
+      },
+      {
+        "letter": "d",
+        "text": "8432718"
+      }
+    ],
+    "answer": "b",
+    "explanation": "4832718: (8+7+3+4) − (1+2+8) = 22 − 11 = 11 ✔.",
+    "source": "Book Q212",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 25,
+    "question": "If 78*3945 is divisible by 11, the digit * is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "0"
+      },
+      {
+        "letter": "b",
+        "text": "1"
+      },
+      {
+        "letter": "c",
+        "text": "3"
+      },
+      {
+        "letter": "d",
+        "text": "5"
+      }
+    ],
+    "answer": "d",
+    "explanation": "Odd places (from right) 5+9+*+7 = 21+*; even places 4+3+8 = 15. Difference 6+* = 11 → * = 5.",
+    "source": "Book Q217",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 26,
+    "question": "Which number is divisible by 3, 7, 9 and 11?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "639"
+      },
+      {
+        "letter": "b",
+        "text": "2079"
+      },
+      {
+        "letter": "c",
+        "text": "3791"
+      },
+      {
+        "letter": "d",
+        "text": "37911"
+      }
+    ],
+    "answer": "b",
+    "explanation": "2079 = 3³ × 7 × 11 (LCM of 3,7,9,11 = 693; 693 × 3 = 2079).",
+    "source": "Book Q220",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 27,
+    "question": "Which number is exactly divisible by 24?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "35718"
+      },
+      {
+        "letter": "b",
+        "text": "63810"
+      },
+      {
+        "letter": "c",
+        "text": "537804"
+      },
+      {
+        "letter": "d",
+        "text": "3125736"
+      }
+    ],
+    "answer": "d",
+    "explanation": "24 = 3 × 8. Digit sum 27 (÷3 ✔), last three digits 736 ÷ 8 = 92 ✔.",
+    "source": "Book Q225",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 28,
+    "question": "A number when divided by 342 leaves remainder 47. When the same number is divided by 18, the remainder is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "9"
+      },
+      {
+        "letter": "b",
+        "text": "11"
+      },
+      {
+        "letter": "c",
+        "text": "13"
+      },
+      {
+        "letter": "d",
+        "text": "15"
+      }
+    ],
+    "answer": "b",
+    "explanation": "342 is a multiple of 18 (18 × 19). So remainder = 47 ÷ 18 → 11.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 29,
+    "question": "111,111,111,111 is divisible by",
+    "options": [
+      {
+        "letter": "a",
+        "text": "3 and 37 only"
+      },
+      {
+        "letter": "b",
+        "text": "3, 11 and 37 only"
+      },
+      {
+        "letter": "c",
+        "text": "3, 11, 37 and 111 only"
+      },
+      {
+        "letter": "d",
+        "text": "3, 11, 37, 111 and 1001"
+      }
+    ],
+    "answer": "d",
+    "explanation": "111111 = 3·7·11·13·37 and 1001 = 7·11·13; the 12-ones number = 111111 × 1000001.",
+    "source": "Book Q207",
+    "bookKeyCorrected": false
+  }
+]

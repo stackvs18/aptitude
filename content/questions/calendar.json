@@ -1,0 +1,444 @@
+[
+  {
+    "number": 1,
+    "question": "Jan 1, 2007 was Monday. Jan 1, 2008 is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Monday"
+      },
+      {
+        "letter": "b",
+        "text": "Tuesday"
+      },
+      {
+        "letter": "c",
+        "text": "Wednesday"
+      },
+      {
+        "letter": "d",
+        "text": "Sunday"
+      }
+    ],
+    "answer": "b",
+    "explanation": "2007 is ordinary → 1 odd day.",
+    "source": "Book Q1",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 2,
+    "question": "Jan 1, 2008 is Tuesday. Jan 1, 2009 is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Monday"
+      },
+      {
+        "letter": "b",
+        "text": "Wednesday"
+      },
+      {
+        "letter": "c",
+        "text": "Thursday"
+      },
+      {
+        "letter": "d",
+        "text": "Sunday"
+      }
+    ],
+    "answer": "c",
+    "explanation": "2008 leap → 2 odd days.",
+    "source": "Book Q2",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 3,
+    "question": "8 Dec 2007 is Saturday. 8 Dec 2006 was",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Sunday"
+      },
+      {
+        "letter": "b",
+        "text": "Thursday"
+      },
+      {
+        "letter": "c",
+        "text": "Tuesday"
+      },
+      {
+        "letter": "d",
+        "text": "Friday"
+      }
+    ],
+    "answer": "d",
+    "explanation": "1 odd day back.",
+    "source": "Book Q3",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 4,
+    "question": "6 March 2005 was Monday (as given). What day was 6 March 2004?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Sunday"
+      },
+      {
+        "letter": "b",
+        "text": "Saturday"
+      },
+      {
+        "letter": "c",
+        "text": "Tuesday"
+      },
+      {
+        "letter": "d",
+        "text": "Wednesday"
+      }
+    ],
+    "answer": "a",
+    "explanation": "*Book's key says (b), which is wrong.* From 6 Mar 2004 to 6 Mar 2005 the period does **not** include 29 Feb 2004 (it's before 6 Mar 2004), so it's 365 days = 1 odd day → one day before Monday = **Sunday**. *(Lesson: the leap day matters only if 29 Feb lies inside the interval.)*",
+    "source": "Book Q4",
+    "bookKeyCorrected": true
+  },
+  {
+    "number": 5,
+    "question": "The calendar for 2007 will be the same for",
+    "options": [
+      {
+        "letter": "a",
+        "text": "2014"
+      },
+      {
+        "letter": "b",
+        "text": "2016"
+      },
+      {
+        "letter": "c",
+        "text": "2017"
+      },
+      {
+        "letter": "d",
+        "text": "2018"
+      }
+    ],
+    "answer": "d",
+    "explanation": "Odd days 2007→2017: 1+2+1+1+1+2+1+1+1+2+1 = 14 ≡ 0, and 2018 is also ordinary like 2007.",
+    "source": "Book Q5",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 6,
+    "question": "Day of the week on 17 June 1998?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Monday"
+      },
+      {
+        "letter": "b",
+        "text": "Tuesday"
+      },
+      {
+        "letter": "c",
+        "text": "Wednesday"
+      },
+      {
+        "letter": "d",
+        "text": "Thursday"
+      }
+    ],
+    "answer": "c",
+    "explanation": "1600 yrs: 0; 300 yrs: 1; 97 yrs (24 leap): 48 + 73 = 121 ≡ 2. 1998 Jan–June 17: 3+0+3+2+3+3 = 14 ≡ 0. Total 3 → Wednesday.",
+    "source": "Book Q7",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 7,
+    "question": "Day on 28 May 2006?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Thursday"
+      },
+      {
+        "letter": "b",
+        "text": "Friday"
+      },
+      {
+        "letter": "c",
+        "text": "Saturday"
+      },
+      {
+        "letter": "d",
+        "text": "Sunday"
+      }
+    ],
+    "answer": "d",
+    "explanation": "2000 yrs: 0; 2001–05 (1 leap): 6; 2006 Jan–May 28: 3+0+3+2+0 = 8 ≡ 1. Total 7 ≡ 0 → Sunday.",
+    "source": "Book Q8",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 8,
+    "question": "Day on 15 August 2010?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Sunday"
+      },
+      {
+        "letter": "b",
+        "text": "Monday"
+      },
+      {
+        "letter": "c",
+        "text": "Tuesday"
+      },
+      {
+        "letter": "d",
+        "text": "Friday"
+      }
+    ],
+    "answer": "a",
+    "explanation": "2001–09 (2 leap): 11 ≡ 4; 2010 Jan–Aug 15: 3+0+3+2+3+2+3+1 = 17 ≡ 3. Total 7 ≡ 0 → Sunday.",
+    "source": "Book Q9",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 9,
+    "question": "Today is Monday. After 61 days it will be",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Wednesday"
+      },
+      {
+        "letter": "b",
+        "text": "Saturday"
+      },
+      {
+        "letter": "c",
+        "text": "Tuesday"
+      },
+      {
+        "letter": "d",
+        "text": "Thursday"
+      }
+    ],
+    "answer": "b",
+    "explanation": "61 ≡ 5 → Monday + 5.",
+    "source": "Book Q10",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 10,
+    "question": "The last day of a century cannot be",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Monday"
+      },
+      {
+        "letter": "b",
+        "text": "Wednesday"
+      },
+      {
+        "letter": "c",
+        "text": "Tuesday"
+      },
+      {
+        "letter": "d",
+        "text": "Friday"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Century ends only on Mon, Wed, Fri or Sun.",
+    "source": "Book Q11",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 11,
+    "question": "Which is NOT a leap year?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "700"
+      },
+      {
+        "letter": "b",
+        "text": "800"
+      },
+      {
+        "letter": "c",
+        "text": "1200"
+      },
+      {
+        "letter": "d",
+        "text": "2000"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Century years must be divisible by 400.",
+    "source": "Book Q12",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 12,
+    "question": "Jan 1, 2006 was Sunday. Jan 1, 2010 was",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Sunday"
+      },
+      {
+        "letter": "b",
+        "text": "Saturday"
+      },
+      {
+        "letter": "c",
+        "text": "Friday"
+      },
+      {
+        "letter": "d",
+        "text": "Wednesday"
+      }
+    ],
+    "answer": "c",
+    "explanation": "2006, 07, 08, 09 → 1+1+2+1 = 5 → Friday.",
+    "source": "Book Q14",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 13,
+    "question": "8 Feb 2005 was Tuesday. 8 Feb 2004 was",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Tuesday"
+      },
+      {
+        "letter": "b",
+        "text": "Monday"
+      },
+      {
+        "letter": "c",
+        "text": "Sunday"
+      },
+      {
+        "letter": "d",
+        "text": "Wednesday"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Interval contains 29 Feb 2004 → 2 odd days back.",
+    "source": "Book Q15",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 14,
+    "question": "In a month, three Sundays fall on even dates. The 15th of that month is a",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Thursday"
+      },
+      {
+        "letter": "b",
+        "text": "Friday"
+      },
+      {
+        "letter": "c",
+        "text": "Saturday"
+      },
+      {
+        "letter": "d",
+        "text": "Sunday"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Sundays 2, 9, 16, 23, 30 → 15th = Saturday.",
+    "source": "Book Q16",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 15,
+    "question": "Day on 15 August 1947?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Saturday"
+      },
+      {
+        "letter": "b",
+        "text": "Friday"
+      },
+      {
+        "letter": "c",
+        "text": "Thursday"
+      },
+      {
+        "letter": "d",
+        "text": "Wednesday"
+      }
+    ],
+    "answer": "b",
+    "explanation": "1600: 0; 300: 1; 46 yrs (11 leap): 57 ≡ 1 → 2. 1947 Jan–Aug 15: 3+0+3+2+3+2+3+1 = 17 ≡ 3. Total 5 → Friday.",
+    "source": "Book Q17",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 16,
+    "question": "Calendar of 2009 is the same as that of",
+    "options": [
+      {
+        "letter": "a",
+        "text": "2013"
+      },
+      {
+        "letter": "b",
+        "text": "2014"
+      },
+      {
+        "letter": "c",
+        "text": "2015"
+      },
+      {
+        "letter": "d",
+        "text": "2016"
+      }
+    ],
+    "answer": "c",
+    "explanation": "2009→2014 odd days: 1+1+1+2+1+1 = 7 ≡ 0 → 2015.",
+    "source": "Book Q18",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 17,
+    "question": "How many days are there in x weeks x days?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "7x²"
+      },
+      {
+        "letter": "b",
+        "text": "8x"
+      },
+      {
+        "letter": "c",
+        "text": "14x"
+      },
+      {
+        "letter": "d",
+        "text": "7"
+      }
+    ],
+    "answer": "b",
+    "explanation": "7x + x. **Note on 18–21:** Directions, Blood Relations, Coding-Decoding and the misc. reasoning topics are in R.S. Aggarwal's *A Modern Approach to Verbal & Non-Verbal Reasoning* (reference book #2 in your syllabus), which isn't in your folder. The questions below are the standard types from that book, written and solved by me **[★]**. Clocks and Odd-Man-Out/Series *are* in your Quant book (Ch 28 & 35).",
+    "source": "Book Q13",
+    "bookKeyCorrected": false
+  }
+]

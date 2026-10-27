@@ -1,0 +1,522 @@
+[
+  {
+    "number": 1,
+    "question": "A school has 2140 students, 1200 girls. Ratio boys : girls?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "18:13"
+      },
+      {
+        "letter": "b",
+        "text": "26:25"
+      },
+      {
+        "letter": "c",
+        "text": "47:60"
+      },
+      {
+        "letter": "d",
+        "text": "31:79"
+      }
+    ],
+    "answer": "c",
+    "explanation": "940 : 1200 = 47 : 60.",
+    "source": "Book Q1",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 2,
+    "question": "Ratio between a number and the number got by adding one-fifth of it to itself:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "4:5"
+      },
+      {
+        "letter": "b",
+        "text": "5:4"
+      },
+      {
+        "letter": "c",
+        "text": "5:6"
+      },
+      {
+        "letter": "d",
+        "text": "6:5"
+      }
+    ],
+    "answer": "c",
+    "explanation": "x : 6x/5.",
+    "source": "Book Q8",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 3,
+    "question": "If 60% of A = ¾ of B, then A : B =",
+    "options": [
+      {
+        "letter": "a",
+        "text": "4:5"
+      },
+      {
+        "letter": "b",
+        "text": "5:4"
+      },
+      {
+        "letter": "c",
+        "text": "9:20"
+      },
+      {
+        "letter": "d",
+        "text": "20:9"
+      }
+    ],
+    "answer": "b",
+    "explanation": "A/B = 0.75/0.6 = 5/4.",
+    "source": "Book Q10",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 4,
+    "question": "If 5 : a :: 20 : 28, then a =",
+    "options": [
+      {
+        "letter": "a",
+        "text": "4"
+      },
+      {
+        "letter": "b",
+        "text": "6"
+      },
+      {
+        "letter": "c",
+        "text": "7"
+      },
+      {
+        "letter": "d",
+        "text": "8"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Product of extremes = means: 5 × 28 = 20a.",
+    "source": "Book Q16",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 5,
+    "question": "If x : 7.5 = 7 : 17.5, x =",
+    "options": [
+      {
+        "letter": "a",
+        "text": "1"
+      },
+      {
+        "letter": "b",
+        "text": "2.5"
+      },
+      {
+        "letter": "c",
+        "text": "3"
+      },
+      {
+        "letter": "d",
+        "text": "3.5"
+      }
+    ],
+    "answer": "c",
+    "explanation": "7.5 × 7/17.5.",
+    "source": "Book Q18",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 6,
+    "question": "Simplest form of 3 hours : 1 day",
+    "options": [
+      {
+        "letter": "a",
+        "text": "1:3"
+      },
+      {
+        "letter": "b",
+        "text": "1:6"
+      },
+      {
+        "letter": "c",
+        "text": "1:8"
+      },
+      {
+        "letter": "d",
+        "text": "1:25"
+      }
+    ],
+    "answer": "c",
+    "explanation": "3 : 24 (same units first!).",
+    "source": "Book Q22",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 7,
+    "question": "If 20% of A = 30% of B = 1/6 of C, then A : B : C =",
+    "options": [
+      {
+        "letter": "a",
+        "text": "2:3:16"
+      },
+      {
+        "letter": "b",
+        "text": "3:2:16"
+      },
+      {
+        "letter": "c",
+        "text": "10:15:18"
+      },
+      {
+        "letter": "d",
+        "text": "15:10:18"
+      }
+    ],
+    "answer": "d",
+    "explanation": "Let each = k: A = 5k, B = 10k/3, C = 6k → ×3 → 15 : 10 : 18.",
+    "source": "Book Q27",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 8,
+    "question": "25% of A's income = 35% of B's income. A : B =",
+    "options": [
+      {
+        "letter": "a",
+        "text": "5:7"
+      },
+      {
+        "letter": "b",
+        "text": "7:5"
+      },
+      {
+        "letter": "c",
+        "text": "13:15"
+      },
+      {
+        "letter": "d",
+        "text": "15:13"
+      }
+    ],
+    "answer": "b",
+    "explanation": "",
+    "source": "Book Q28",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 9,
+    "question": "If 2A = 3B = 4C, then A : B : C =",
+    "options": [
+      {
+        "letter": "a",
+        "text": "2:3:4"
+      },
+      {
+        "letter": "b",
+        "text": "3:4:6"
+      },
+      {
+        "letter": "c",
+        "text": "4:3:2"
+      },
+      {
+        "letter": "d",
+        "text": "6:4:3"
+      }
+    ],
+    "answer": "d",
+    "explanation": "Take 2A = 3B = 4C = 12 → 6, 4, 3.",
+    "source": "Book Q30",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 10,
+    "question": "If a : b = 7 : 9 and b : c = 15 : 7, then a : c =",
+    "options": [
+      {
+        "letter": "a",
+        "text": "3:5"
+      },
+      {
+        "letter": "b",
+        "text": "5:3"
+      },
+      {
+        "letter": "c",
+        "text": "7:15"
+      },
+      {
+        "letter": "d",
+        "text": "7:9"
+      }
+    ],
+    "answer": "b",
+    "explanation": "a/c = (7/9)(15/7) = 15/9.",
+    "source": "Book Q33",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 11,
+    "question": "A's income is 10% more than B's; B's is 20% less than C's. A : B : C =",
+    "options": [
+      {
+        "letter": "a",
+        "text": "11:10:8"
+      },
+      {
+        "letter": "b",
+        "text": "22:20:25"
+      },
+      {
+        "letter": "c",
+        "text": "10:9:7"
+      },
+      {
+        "letter": "d",
+        "text": "22:18:25"
+      }
+    ],
+    "answer": "b",
+    "explanation": "C = 100, B = 80, A = 88.",
+    "source": "Book Q104",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 12,
+    "question": "Seema and Meena divide ₹25000 in 3 : 2. If ₹5000 is added to each share, new ratio?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "2:3"
+      },
+      {
+        "letter": "b",
+        "text": "3:4"
+      },
+      {
+        "letter": "c",
+        "text": "5:4"
+      },
+      {
+        "letter": "d",
+        "text": "4:3"
+      }
+    ],
+    "answer": "d",
+    "explanation": "20000 : 15000.",
+    "source": "Book Q112",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 13,
+    "question": "If A : B = 2 : 3 and B : C = 4 : 5, then A : B : C =",
+    "options": [
+      {
+        "letter": "a",
+        "text": "2:3:5"
+      },
+      {
+        "letter": "b",
+        "text": "8:12:15"
+      },
+      {
+        "letter": "c",
+        "text": "4:6:5"
+      },
+      {
+        "letter": "d",
+        "text": "8:12:10"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Make B common: 2:3 = 8:12; 4:5 = 12:15.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 14,
+    "question": "Fourth proportional to 4, 9, 12 is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "18"
+      },
+      {
+        "letter": "b",
+        "text": "24"
+      },
+      {
+        "letter": "c",
+        "text": "27"
+      },
+      {
+        "letter": "d",
+        "text": "36"
+      }
+    ],
+    "answer": "c",
+    "explanation": "4 : 9 :: 12 : x → x = 9 × 12/4.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 15,
+    "question": "Mean proportional between 0.32 and 0.02 is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "0.08"
+      },
+      {
+        "letter": "b",
+        "text": "0.8"
+      },
+      {
+        "letter": "c",
+        "text": "0.16"
+      },
+      {
+        "letter": "d",
+        "text": "0.064"
+      }
+    ],
+    "answer": "a",
+    "explanation": "√(0.32 × 0.02) = √0.0064.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 16,
+    "question": "Third proportional to 16 and 36 is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "52"
+      },
+      {
+        "letter": "b",
+        "text": "56"
+      },
+      {
+        "letter": "c",
+        "text": "72"
+      },
+      {
+        "letter": "d",
+        "text": "81"
+      }
+    ],
+    "answer": "d",
+    "explanation": "36²/16.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 17,
+    "question": "Two numbers are in ratio 3 : 5. If 9 is subtracted from each, they become 12 : 23. The smaller number is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "27"
+      },
+      {
+        "letter": "b",
+        "text": "33"
+      },
+      {
+        "letter": "c",
+        "text": "49"
+      },
+      {
+        "letter": "d",
+        "text": "55"
+      }
+    ],
+    "answer": "b",
+    "explanation": "23(3x − 9) = 12(5x − 9) → 9x = 99 → x = 11.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 18,
+    "question": "Salaries of A and B are in ratio 2 : 3. If each gets ₹4000 more, ratio becomes 40 : 57. B's present salary?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "₹17000"
+      },
+      {
+        "letter": "b",
+        "text": "₹20000"
+      },
+      {
+        "letter": "c",
+        "text": "₹25500"
+      },
+      {
+        "letter": "d",
+        "text": "₹34000"
+      }
+    ],
+    "answer": "d",
+    "explanation": "57(2x + 4000) = 40(3x + 4000) → 6x = 68000 → B = 3x = 34000.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 19,
+    "question": "A bag has 50 p, 25 p and 10 p coins in ratio 5 : 9 : 4, total ₹206. Number of 25 p coins?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "200"
+      },
+      {
+        "letter": "b",
+        "text": "360"
+      },
+      {
+        "letter": "c",
+        "text": "160"
+      },
+      {
+        "letter": "d",
+        "text": "400"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Value ratio 2.5 : 2.25 : 0.4 → 5.15x = 206 → x = 40 → 9 × 40.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 20,
+    "question": "₹1162 divided among A, B, C in ratio 35 : 28 : 20. C's share?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "₹280"
+      },
+      {
+        "letter": "b",
+        "text": "₹392"
+      },
+      {
+        "letter": "c",
+        "text": "₹490"
+      },
+      {
+        "letter": "d",
+        "text": "₹300"
+      }
+    ],
+    "answer": "a",
+    "explanation": "1162 × 20/83 = 280.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  }
+]

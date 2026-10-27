@@ -1,0 +1,530 @@
+[
+  {
+    "number": 1,
+    "question": "Weights of 7 students: 54, 78, 43, 82, 67, 42, 75 kg. Average?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "63 kg"
+      },
+      {
+        "letter": "b",
+        "text": "69 kg"
+      },
+      {
+        "letter": "c",
+        "text": "71 kg"
+      },
+      {
+        "letter": "d",
+        "text": "73 kg"
+      }
+    ],
+    "answer": "a",
+    "explanation": "Sum 441 ÷ 7 = 63.",
+    "source": "Book Q1",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 2,
+    "question": "Incomes 15000, 26000, 16000, 19000, 50000. How many earn less than the mean?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "1"
+      },
+      {
+        "letter": "b",
+        "text": "2"
+      },
+      {
+        "letter": "c",
+        "text": "3"
+      },
+      {
+        "letter": "d",
+        "text": "4"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Mean = 126000/5 = 25200; three are below.",
+    "source": "Book Q4",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 3,
+    "question": "The mean of 15 numbers is 41.4. Their sum is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "414"
+      },
+      {
+        "letter": "b",
+        "text": "420"
+      },
+      {
+        "letter": "c",
+        "text": "620"
+      },
+      {
+        "letter": "d",
+        "text": "621"
+      }
+    ],
+    "answer": "d",
+    "explanation": "15 × 41.4 = 621.",
+    "source": "Book Q5",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 4,
+    "question": "If 25a + 25b = 115, the average of a and b is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "2.5"
+      },
+      {
+        "letter": "b",
+        "text": "3.4"
+      },
+      {
+        "letter": "c",
+        "text": "4.5"
+      },
+      {
+        "letter": "d",
+        "text": "4.6"
+      },
+      {
+        "letter": "e",
+        "text": "None of these"
+      }
+    ],
+    "answer": "e",
+    "explanation": "a + b = 4.6 → average = **2.3** (trap option 4.6!).",
+    "source": "Book Q6",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 5,
+    "question": "Kunal bought 65 books for ₹1050 and 50 books for ₹1020. Average price per book?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "₹18"
+      },
+      {
+        "letter": "b",
+        "text": "₹18.20"
+      },
+      {
+        "letter": "c",
+        "text": "₹24"
+      },
+      {
+        "letter": "d",
+        "text": "₹36.40"
+      }
+    ],
+    "answer": "a",
+    "explanation": "2070 ÷ 115 = 18.",
+    "source": "Book Q9",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 6,
+    "question": "The mean of the first ten even natural numbers is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "9"
+      },
+      {
+        "letter": "b",
+        "text": "10"
+      },
+      {
+        "letter": "c",
+        "text": "11"
+      },
+      {
+        "letter": "d",
+        "text": "12"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Average of first n even numbers = n + 1 = 11.",
+    "source": "Book Q15",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 7,
+    "question": "The average of the first nine prime numbers is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "9"
+      },
+      {
+        "letter": "b",
+        "text": "11"
+      },
+      {
+        "letter": "c",
+        "text": "11 1/9"
+      },
+      {
+        "letter": "d",
+        "text": "11 2/9"
+      }
+    ],
+    "answer": "c",
+    "explanation": "2+3+5+7+11+13+17+19+23 = 100 → 100/9.",
+    "source": "Book Q19",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 8,
+    "question": "The average of the first 100 positive integers is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "49.5"
+      },
+      {
+        "letter": "b",
+        "text": "50.5"
+      },
+      {
+        "letter": "c",
+        "text": "51"
+      },
+      {
+        "letter": "d",
+        "text": "100"
+      }
+    ],
+    "answer": "b",
+    "explanation": "(n + 1)/2 = 50.5.",
+    "source": "Book Q23",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 9,
+    "question": "The average of odd numbers up to 100 is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "49"
+      },
+      {
+        "letter": "b",
+        "text": "49.5"
+      },
+      {
+        "letter": "c",
+        "text": "50"
+      },
+      {
+        "letter": "d",
+        "text": "50.5"
+      }
+    ],
+    "answer": "c",
+    "explanation": "1, 3, …, 99 → (1 + 99)/2 = 50.",
+    "source": "Book Q24",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 10,
+    "question": "Average age of father and mother is 35 yrs; average of father, mother and son is 27. Son's age?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "10"
+      },
+      {
+        "letter": "b",
+        "text": "10.5"
+      },
+      {
+        "letter": "c",
+        "text": "11"
+      },
+      {
+        "letter": "d",
+        "text": "12"
+      }
+    ],
+    "answer": "c",
+    "explanation": "3 × 27 − 2 × 35 = 81 − 70 = 11.",
+    "source": "Book Q25",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 11,
+    "question": "Mean of x, x+2, x+4, x+6, x+8 is 11. Mean of the last three?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "11"
+      },
+      {
+        "letter": "b",
+        "text": "13"
+      },
+      {
+        "letter": "c",
+        "text": "15"
+      },
+      {
+        "letter": "d",
+        "text": "17"
+      }
+    ],
+    "answer": "b",
+    "explanation": "Middle term x + 4 = 11 → x = 7 → 11, 13, 15 → 13.",
+    "source": "Book Q28",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 12,
+    "question": "The average of 7 consecutive numbers is 20. The largest is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "20"
+      },
+      {
+        "letter": "b",
+        "text": "22"
+      },
+      {
+        "letter": "c",
+        "text": "23"
+      },
+      {
+        "letter": "d",
+        "text": "24"
+      }
+    ],
+    "answer": "c",
+    "explanation": "Middle = 20 → 17 … 23.",
+    "source": "Book Q41",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 13,
+    "question": "Average of five consecutive odd numbers is 95. The 4th number in descending order is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "91"
+      },
+      {
+        "letter": "b",
+        "text": "95"
+      },
+      {
+        "letter": "c",
+        "text": "97"
+      },
+      {
+        "letter": "d",
+        "text": "99"
+      },
+      {
+        "letter": "e",
+        "text": "None"
+      }
+    ],
+    "answer": "e",
+    "explanation": "Numbers 91…99; descending 99, 97, 95, **93**, 91 → 93 (not listed).",
+    "source": "Book Q42",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 14,
+    "question": "A, B, C, D are four consecutive even numbers with average 65. A × D = ?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "3968"
+      },
+      {
+        "letter": "b",
+        "text": "4092"
+      },
+      {
+        "letter": "c",
+        "text": "4216"
+      },
+      {
+        "letter": "d",
+        "text": "4352"
+      }
+    ],
+    "answer": "c",
+    "explanation": "62, 64, 66, 68 → 62 × 68 = 4216.",
+    "source": "Book Q43",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 15,
+    "question": "The average of 11 results is 60. The average of the first six is 58 and of the last six is 63. The 6th result is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "64"
+      },
+      {
+        "letter": "b",
+        "text": "66"
+      },
+      {
+        "letter": "c",
+        "text": "68"
+      },
+      {
+        "letter": "d",
+        "text": "70"
+      }
+    ],
+    "answer": "b",
+    "explanation": "6×58 + 6×63 − 11×60 = 348 + 378 − 660 = 66.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 16,
+    "question": "A batsman scores 85 in his 16th innings and raises his average by 3. Average after 16 innings?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "37"
+      },
+      {
+        "letter": "b",
+        "text": "40"
+      },
+      {
+        "letter": "c",
+        "text": "42"
+      },
+      {
+        "letter": "d",
+        "text": "45"
+      }
+    ],
+    "answer": "b",
+    "explanation": "New avg = 85 − 3 × 15 = 40.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 17,
+    "question": "The average weight of 8 persons increases by 2.5 kg when a new person replaces one weighing 65 kg. Weight of the new person?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "76 kg"
+      },
+      {
+        "letter": "b",
+        "text": "80 kg"
+      },
+      {
+        "letter": "c",
+        "text": "85 kg"
+      },
+      {
+        "letter": "d",
+        "text": "90 kg"
+      }
+    ],
+    "answer": "c",
+    "explanation": "65 + 8 × 2.5 = 85.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 18,
+    "question": "Average age of 30 students is 15 yrs. When the teacher's age is included the average becomes 16. Teacher's age?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "31"
+      },
+      {
+        "letter": "b",
+        "text": "36"
+      },
+      {
+        "letter": "c",
+        "text": "41"
+      },
+      {
+        "letter": "d",
+        "text": "46"
+      }
+    ],
+    "answer": "d",
+    "explanation": "31 × 16 − 30 × 15 = 496 − 450 = 46.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 19,
+    "question": "A car goes from A to B at 40 km/h and returns at 60 km/h. Average speed for the whole journey?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "45"
+      },
+      {
+        "letter": "b",
+        "text": "48"
+      },
+      {
+        "letter": "c",
+        "text": "50"
+      },
+      {
+        "letter": "d",
+        "text": "52"
+      }
+    ],
+    "answer": "b",
+    "explanation": "2xy/(x + y) = 4800/100 = 48 km/h.",
+    "source": "Book-style",
+    "bookKeyCorrected": false
+  },
+  {
+    "number": 20,
+    "question": "Of four numbers with average 60, the first is one-fourth of the sum of the last three. The first number is",
+    "options": [
+      {
+        "letter": "a",
+        "text": "15"
+      },
+      {
+        "letter": "b",
+        "text": "42"
+      },
+      {
+        "letter": "c",
+        "text": "45"
+      },
+      {
+        "letter": "d",
+        "text": "48"
+      }
+    ],
+    "answer": "d",
+    "explanation": "Total 240 = a + 4a → a = 48.",
+    "source": "Book Q39",
+    "bookKeyCorrected": false
+  }
+]
