@@ -35,16 +35,17 @@ export default async function GfgNotePage({ params }: PageProps<"/gfg/[slug]">) 
   if (found === null) {
     notFound();
   }
-  const { topic, sectionName, previousTopic, nextTopic } = found;
+  const { topic, sectionName, onExamList, previousTopic, nextTopic } = found;
   const note = await renderGfgNote(slug);
 
   return (
     <main id="main" className="mx-auto max-w-[1120px] px-5 pb-24 pt-10 sm:px-8 sm:pt-14 xl:px-12">
       <header className="mb-10 max-w-[720px]">
-        <p className="eyebrow">
-          <Link href={`/gfg#${topic.section}`} className="hover:text-fg">
+        <p className="eyebrow flex flex-wrap items-center gap-x-3 gap-y-2">
+          <Link href={onExamList ? "/gfg#exam-list" : "/gfg#other-topics"} className="hover:text-fg">
             GfG notes · {sectionName}
           </Link>
+          {!onExamList && <span className="tag tag-warn">Not in exam list</span>}
         </p>
         <h1 className="mt-5 font-serif text-[2.4rem] leading-[1.08] tracking-[-0.02em] sm:text-[3.2rem]">{topic.title}</h1>
         <div className="mt-6 flex flex-wrap gap-2">

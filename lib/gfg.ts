@@ -88,21 +88,74 @@ export const GFG_TOPICS: GfgTopic[] = [
   { slug: "adjectives", title: "Adjectives", section: "verbal", sourceUrl: "https://www.geeksforgeeks.org/aptitude/adjective/", handbookSlug: null },
 ];
 
-// Returns the topics in one section, in the order GeeksforGeeks lists them.
-export function getGfgTopicsInSection(sectionId: GfgSection): GfgTopic[] {
-  const topicsInSection: GfgTopic[] = [];
-  for (const topic of GFG_TOPICS) {
-    if (topic.section === sectionId) {
-      topicsInSection.push(topic);
-    }
-  }
-  return topicsInSection;
+// Notes whose topic is on the college's exam list (the 21 IMP topics).
+// "Miscellaneous Reasoning" is read the same way as our Misc. Reasoning guide:
+// series, odd one out, analogies, clocks and Venn diagrams.
+// Partnership and Chain Rule have no GfG page; Work and Wages covers Chain Rule (M₁D₁H₁ = M₂D₂H₂).
+const EXAM_LIST_SLUGS = [
+  "numbers",
+  "divisibility-rules",
+  "lcm-hcf",
+  "ratio-proportion",
+  "average",
+  "percentages",
+  "profit-loss",
+  "mixture-alligation",
+  "simple-interest",
+  "time-speed-distance",
+  "trains-boats-streams",
+  "race",
+  "work-wages",
+  "pipes-cistern",
+  "calendars",
+  "directions",
+  "blood-relations",
+  "coding-decoding",
+  "number-series",
+  "letter-symbol-series",
+  "letter-series",
+  "verbal-classification",
+  "analogies",
+  "clocks",
+  "venn-diagram",
+];
+
+// True when a note's topic is on the exam list.
+export function isOnExamList(slug: string): boolean {
+  return EXAM_LIST_SLUGS.includes(slug);
 }
 
-// Finds one note by slug, with the notes before and after it. Null if unknown.
+// Returns one section's notes that are (or aren't) on the exam list, in GfG's order.
+export function getGfgTopicsInGroup(sectionId: GfgSection, onExamList: boolean): GfgTopic[] {
+  const topicsInGroup: GfgTopic[] = [];
+  for (const topic of GFG_TOPICS) {
+    if (topic.section === sectionId && isOnExamList(topic.slug) === onExamList) {
+      topicsInGroup.push(topic);
+    }
+  }
+  return topicsInGroup;
+}
+
+// Every note in reading order: exam-list notes first (section by section), then the other topics.
+// Previous/next links and the numbers on the index page follow this order.
+function buildReadingOrder(): GfgTopic[] {
+  const readingOrder: GfgTopic[] = [];
+  for (const onExamList of [true, false]) {
+    for (const section of GFG_SECTIONS) {
+      for (const topic of getGfgTopicsInGroup(section.id, onExamList)) {
+        readingOrder.push(topic);
+      }
+    }
+  }
+  return readingOrder;
+}
+
+export const GFG_READING_ORDER: GfgTopic[] = buildReadingOrder();
+
+// Finds one note by slug, with the notes before and after it in reading order. Null if unknown.
 export function getGfgTopic(slug: string) {
-  for (let position = 0; position < GFG_TOPICS.length; position++) {
-    const topic = GFG_TOPICS[position];
+  for (let position = 0; position < GFG_READING_ORDER.length; position++) {
+    const topic = GFG_READING_ORDER[position];
     if (topic.slug !== slug) {
       continue;
     }
@@ -112,9 +165,9 @@ export function getGfgTopic(slug: string) {
         sectionName = section.name;
       }
     }
-    const previousTopic = position > 0 ? GFG_TOPICS[position - 1] : null;
-    const nextTopic = position < GFG_TOPICS.length - 1 ? GFG_TOPICS[position + 1] : null;
-    return { topic, sectionName, previousTopic, nextTopic };
+    const previousTopic = position > 0 ? GFG_READING_ORDER[position - 1] : null;
+    const nextTopic = position < GFG_READING_ORDER.length - 1 ? GFG_READING_ORDER[position + 1] : null;
+    return { topic, sectionName, onExamList: isOnExamList(topic.slug), previousTopic, nextTopic };
   }
   return null;
 }
