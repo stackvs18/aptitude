@@ -91,6 +91,13 @@ export async function renderTopicGuide(topicSlug: string): Promise<RenderedMarkd
   return renderMarkdown(markdownText);
 }
 
+// Renders one GeeksforGeeks note (content/gfg/<slug>.md).
+export async function renderGfgNote(slug: string): Promise<RenderedMarkdown> {
+  const filePath = path.join(CONTENT_FOLDER, "gfg", `${slug}.md`);
+  const markdownText = await fs.readFile(filePath, "utf8");
+  return renderMarkdown(markdownText);
+}
+
 // Renders one of the extra pages: toolkit, traps or strategy (content/extras/<name>.md).
 export async function renderExtra(name: "toolkit" | "traps" | "strategy"): Promise<RenderedMarkdown> {
   const filePath = path.join(CONTENT_FOLDER, "extras", `${name}.md`);

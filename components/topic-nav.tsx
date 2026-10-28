@@ -8,6 +8,7 @@ import { countAnsweredInTopic, useSavedAnswers } from "@/lib/progress";
 const QUICK_LINKS = [
   { label: "Home", href: "/" },
   { label: "All MCQs", href: "/questions" },
+  { label: "GfG notes", href: "/gfg" },
   { label: "Mock test", href: "/mock" },
   { label: "Formula sheet", href: "/formulas" },
   { label: "Mistakes", href: "/mistakes" },

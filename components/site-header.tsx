@@ -11,6 +11,7 @@ import { TopicNav } from "./topic-nav";
 const HEADER_LINKS = [
   { label: "Topics", href: "/#topics" },
   { label: "All MCQs", href: "/questions" },
+  { label: "GfG notes", href: "/gfg" },
   { label: "Mock test", href: "/mock" },
   { label: "Formula sheet", href: "/formulas" },
   { label: "Mistakes", href: "/mistakes" },

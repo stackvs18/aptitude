@@ -5,6 +5,7 @@ A study site for the LJU Semester V **Engineering Aptitude** exam (100 marks, al
 - **Learn**: a full guide for every topic, with formulas, worked examples, shortcuts and traps.
 - **Practice**: 367 MCQs. Tap an option to see right or wrong plus the working. Filter to unanswered or wrong questions.
 - **All MCQs**: the whole bank on one page as an answer key. The correct option is highlighted. Switches hide the answers or explanations for self-testing.
+- **GfG notes** (`/gfg`): one note for each of the 66 topics on the GeeksforGeeks [Aptitude Questions and Answers](https://www.geeksforgeeks.org/aptitude/aptitude-questions-and-answers/) page (quant, reasoning, verbal) plus Divisibility Rules. Written in our own words, each linking to its original page. Files: `content/gfg/<slug>.md`, list in `lib/gfg.ts`.
 - **Mock test**: 20, 40 or 60 random questions, timed or untimed, with a score and unit-by-unit breakdown.
 - **Mistakes**: every wrong answer in one list, ready to retry.
 - **Formula sheet**: every formula on one page, plus the calculation toolkit, ten traps and exam-hall strategy.
